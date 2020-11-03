@@ -1,4 +1,4 @@
-## Welcome to yataka"s GitHub Pages
+## Welcome to yuki"s GitHub Pages
 My name is Takaya KOIZUMI. I am a student of Ritsumeikan University. 
 My major is Mathematics, especially Mathmatical Information. My github is [here](https://github.com/takaya0).
 
