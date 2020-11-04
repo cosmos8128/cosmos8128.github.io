@@ -19,11 +19,9 @@ title-heading: false
 単発のブログ記事です。
 
 
-#### <a href="/notes">Notes</a>
-書いた記事やノートを一部まとめて公開しています。
+#### <a href="/notes">まとめノート</a>
+書いた記事やノートをまとめてあります。
 
-
-  
 #### <span style="font-size:11pt;">誤植表</span>
 
 
