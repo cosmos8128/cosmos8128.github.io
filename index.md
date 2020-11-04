@@ -5,7 +5,7 @@ title-heading: false
 # たくさんの猫と豊かな世界
 <!-- [sample pdf](pdf/sample_diagram.pdf) -->
 
-
+---
 
 ### 自己紹介
 数学を勉強しています。特に「空間」や「代数」に興味があります。専門はホモトピー論です。
