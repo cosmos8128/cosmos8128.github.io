@@ -25,6 +25,16 @@ MathJax.Hub.Config({
 
 
 <a href="/pdf/Int and Cl adjoint.pdf">閉包作用子と包含写像</a>
+- 実数と整数
+
+
+<a href="/pdf/Z and R adjoint.pdf">天井関数と包含写像</a>
+- 整数と実数
+
+
+<a href="/pdf/Z and R adjoint.pdf">包含写像と床関数</a>
+
+
 
 ---
 
