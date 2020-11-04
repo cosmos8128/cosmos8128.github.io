@@ -15,14 +15,12 @@ title-heading: false
 ---
 サイトマップ
 
-#### <a href="/posts">Posts</a>
-単発のブログ記事です。
-
-
 #### <a href="/notes">まとめノート</a>
 書いた記事やノートをまとめてあります。
 
-#### <span style="font-size:11pt;">誤植表</span>
+
+#### <a href="/posts">数学書紹介</a>
+様々な分野の数学書を紹介します。
 
 
 #### <a href="/omnibus">オムニバスセミナーの記録</a>
@@ -31,6 +29,8 @@ title-heading: false
 
 #### <a href="/links">過去のセミナー記録</a>
 過去にどんなセミナーをしてきたかまとめてあります。
+
+#### <span style="font-size:11pt;">誤植表</span>
 
 
 #### <span style="font-size:11pt;">連絡先</span>
