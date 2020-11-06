@@ -20,7 +20,7 @@ MathJax.Hub.Config({
 - 位相空間の開部分集合と位相空間の冪集合
 
 
-　<a href="/pdf/Int and Cl adjoint.pdf">包含写像と開核作用子</a>
+<a href="/pdf/Int and Cl adjoint.pdf">包含写像と開核作用子</a>
 - 位相空間の冪集合と位相空間の閉部分集合
 
 
