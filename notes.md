@@ -27,8 +27,8 @@
 <li><p><strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong></p>
 
   <p>アーベル圏では埋め込み定理を用いて元を取って議論することができるが本稿ではそうではなく普遍性の議論で蛇の補題とコホモロジー長完全列の存在を示す。
-   [@cosmos8128](https://twitter.com/@cosmos8128)が1章と2章でアーベル圏の基本的な性質をまとめ、蛇の補題を示す。
-   その後 [@kyomath1729](https://twitter.com/@kyomath1729)が3章でコホモロジー長完全列の存在を示す。</p>
+  <a href="https://twitter.com/@cosmos8128">@cosmos8128</a>が1章と2章でアーベル圏の基本的な性質をまとめ、蛇の補題を示す。
+   その後<a href="https://twitter.com/@kyomath1729">@kyomath1729</a>が3章でコホモロジー長完全列の存在を示す。</p>
 
   </li>
 
