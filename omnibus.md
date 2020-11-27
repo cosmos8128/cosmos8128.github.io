@@ -48,7 +48,7 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2020/4 「スペクトル系列」「コンパクト生成弱ハウスドルフ空間」
 
-参考資料:[Algebraic giometory](https://bbs.pku.edu.cn/attach/33/6e/336e96c0b674154a/fulei.pdf)
+参考資料:[Algebraic geometory](https://bbs.pku.edu.cn/attach/33/6e/336e96c0b674154a/fulei.pdf)
 
 - 2020/5 「トポスの像分解」
 
