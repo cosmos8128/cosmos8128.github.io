@@ -60,9 +60,19 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 参考資料:志甫 淳 (著),新井 仁之 (編集),小林 俊行 (編集),斎藤 毅 (編集),吉田 朋広 (編集)・「層とホモロジー代数」・共立出版・2016
 
-- 2020/10 「Gabriel-Poprscuの定理」「トポス」
+- 2020/10 「Gabriel-Poprscuの定理」「Geometric morphism」
 
 参考資料:Saunders MacLane (著),Ieke Moerdijk (寄稿)・「Sheaves in Geometry and Logic」・Springer・1992
+
+- 2020/11 「Flat functor」
+
+参考資料:Saunders MacLane (著),Ieke Moerdijk (寄稿)・「Sheaves in Geometry and Logic」・Springer・1992
+
+- 2020/11 「SiteとGeometric morphism」「Pseudo functor and Fibered category」
+
+参考資料:Saunders MacLane (著),Ieke Moerdijk (寄稿)・「Sheaves in Geometry and Logic」・Springer・1992
+参考資料:[Notes on Grothendieck topologies, fibered categories
+and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 ---
 
@@ -79,6 +89,8 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 - 2020/9 「圏論的論理学」
 
 - 2020/11 「代数の一般化としてのモナド」
+
+- 2020/12 「Polynomial Category」
 
 ---
 
