@@ -31,6 +31,7 @@
 - B4 Jacob Lurie (著)・「Higher Topos Theory」・Princeton Univ Pr・2009
 - B4 Qing Liu (著)・「Algebraic Geometry and Arithmetic Curves」・Oxford University Press・2006
 - B4 玉木 大 (著)・「ファイバー束とホモトピー」・森北出版・2020
+- B4 Amnon Neeman (著)・「Triangulated Categories」・Princeton University Press・2014
 - B4(チューター) Steve Awodey (著)・「Category Theory」・Oxford University Press・2008
 - B4(チューター) 谷崎 俊之 (著)・「リー代数と量子群」・共立出版・2002
 

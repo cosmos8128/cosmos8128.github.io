@@ -17,6 +17,7 @@
 - 2019/6 「全ての概念はKan拡張」「エンドとFubiniの定理」
 
 参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/06/10/122241)
+
 参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/06/12/113843)
 
 - 2019/7 「2圏」
@@ -37,6 +38,7 @@
 
 参考資料:[Notes on Grothendieck topologies, fibered categories
 and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
+
 参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/12/25/113016)
 
 - 2020/2 「双対Lie代数」
@@ -68,11 +70,14 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 参考資料:Saunders MacLane (著),Ieke Moerdijk (寄稿)・「Sheaves in Geometry and Logic」・Springer・1992
 
-- 2020/11 「SiteとGeometric morphism」「Pseudo functor and Fibered category」
+- 2020/12 「SiteとGeometric morphism」「Pseudo functor and Fibered category」
 
 参考資料:Saunders MacLane (著),Ieke Moerdijk (寄稿)・「Sheaves in Geometry and Logic」・Springer・1992
+
 参考資料:[Notes on Grothendieck topologies, fibered categories
 and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
+
+- 2021/1 「ロケールによるpoint-free topology」
 
 ---
 
