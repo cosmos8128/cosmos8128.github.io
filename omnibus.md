@@ -79,6 +79,12 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2021/1 「ロケールによるpoint-free topology」
 
+- 2021/2　「三角圏入門」
+
+参考文献:Amnon Neeman (著)・「Triangulated Categories」・Princeton Univ Pr・2001
+
+- 2021/4　「Grothendieck enriched categories」
+
 ---
 
 ### zoom圏論ゼミ

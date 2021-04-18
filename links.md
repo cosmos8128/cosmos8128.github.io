@@ -34,7 +34,8 @@
 - B4 Amnon Neeman (著)・「Triangulated Categories」・Princeton University Press・2014
 - B4(チューター) Steve Awodey (著)・「Category Theory」・Oxford University Press・2008
 - B4(チューター) 谷崎 俊之 (著)・「リー代数と量子群」・共立出版・2002
-
+- M1 Ib Madsen (著)・「From Calculus to Cohomology」・Cambridge University Press・1997
+- M1 Frank W. Warner (著)・「Foundations of Differentiable Manifolds and Lie Groups」・Springer・2010
 
 ---
 
