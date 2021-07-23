@@ -85,6 +85,8 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2021/4　「Grothendieck enriched categories」
 
+- 2021/6　「偏屈層」
+
 ---
 
 ### zoom圏論ゼミ

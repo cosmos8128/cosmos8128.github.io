@@ -36,7 +36,7 @@
 - B4(チューター) 谷崎 俊之 (著)・「リー代数と量子群」・共立出版・2002
 - M1 Ib Madsen (著)・「From Calculus to Cohomology」・Cambridge University Press・1997
 - M1 Frank W. Warner (著)・「Foundations of Differentiable Manifolds and Lie Groups」・Springer・2010
-
+- John Milnor (著)・「Characteristic Classes」・Princeton University Press・1974
 ---
 
 **[ホームに戻る](/index)**
