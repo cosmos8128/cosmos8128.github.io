@@ -21,6 +21,14 @@
 
   </li>
 
+### 多様体論
+
+<li><p><strong><a href="/pdf/vector analysis.pdf">微分形式とベクトル解析</a></strong></p>
+
+  <p>今回は微分形式などを簡単に説明し、ベクトル解析で扱うgradient(勾配)やrotation(回転)やdivergence(発散)がR^3のde Rham複体と外微分を用いる事で理解できることを述べる.そして,最後にその性質が外微分の性質と一致していることをみる.</p>
+
+  </li>
+
 ### 力学系
 
 <li><p><strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong></p>
@@ -30,7 +38,7 @@
 
   </li>
 
-  ### 関数解析
+### 関数解析
 
 <li><p><strong><a href="/pdf/PaNor and PreHill.pdf">中線定理が成立するノルム空間と内積空間</a></strong></p>
 
