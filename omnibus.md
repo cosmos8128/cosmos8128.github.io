@@ -87,6 +87,12 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2021/6　「偏屈層」
 
+- 2021/9 「Bridgelandの安定性条件」
+
+- 2021/10 「Galois圏と基本群」
+
+- 2021/11 「Galois圏と基本群」
+
 ---
 
 ### zoom圏論ゼミ
