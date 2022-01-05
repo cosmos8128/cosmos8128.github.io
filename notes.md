@@ -13,6 +13,14 @@
 
   </li>
 
+  <li><p><strong><a href="/pdf/CWcomplex.pdf">CW複体</a></strong></p>
+
+  <p>CW複体は代数的位相幾何学で重要な対象である。そこで、今回はCW複体の定義や例を紹介し、push outによる定義とWhiteheadによる定義の同値性を示し、最後にCW複体が正規空間であることを示す。
+  
+  このノートはHatcherのAlgebraic TopologyのAppendixのまとめでもある。</p>
+
+  </li>
+
 ### 力学系
 
 <li><p><strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong></p>
