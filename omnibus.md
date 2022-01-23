@@ -93,6 +93,8 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2021/11 「Galois圏と基本群」
 
+- 2022/1 「形式変形理論概要」
+
 ---
 
 ### zoom圏論ゼミ

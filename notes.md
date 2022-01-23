@@ -21,11 +21,21 @@
 
   </li>
 
+### 代数的位相幾何学
+
+<li><p><strong><a href="/pdf/Brown Rep Thm.pdf">Brown Representability Theorem</a></strong></p>
+
+  <p>任意のΩ-spectrumが基点付きCW複体の圏上の簡約コホモロジー論を定める。ここで逆に基点付きCW複体の圏上の任意の簡約コホモロジー論はある Ω-spectrumにより表現されるかという自然な疑問がある。
+  この疑問に肯定的な解答を与えるのがBrown representability theoremである。また、特異コホモロジー群がEilenberg-MacLane空間により表現されるということが具体的な計算により得られるが、Brown representability theoremはその別証明を与える。
+  今回は、簡約懸垂をとる関手とループ空間をとる関手が互いに随伴関手となることの説明から始め、Brown representability theoremの証明を与える。</p>
+
+  </li>
+
 ### 多様体論
 
 <li><p><strong><a href="/pdf/vector analysis.pdf">微分形式とベクトル解析</a></strong></p>
 
-  <p>今回は微分形式などを簡単に説明し、ベクトル解析で扱うgradient(勾配)やrotation(回転)やdivergence(発散)がR^3のde Rham複体と外微分を用いる事で理解できることを述べる.そして,最後にその性質が外微分の性質と一致していることをみる.</p>
+  <p>今回は微分形式などを簡単に説明し、ベクトル解析で扱うgradient(勾配)やrotation(回転)やdivergence(発散)がR^3のde Rham複体と外微分を用いる事で理解できることを述べる.そして,最後にその性質が外微分の性質と一致していることをみる。</p>
 
   </li>
 
@@ -47,7 +57,7 @@
 
   </li>
 
-### アーベル圏
+### アーベル圏論
 
 <li><p><strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong></p>
 
