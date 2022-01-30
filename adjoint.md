@@ -121,6 +121,7 @@ Hom関手とHom関手
 
 <a href="/pdf/stratified_simplicial_set.pdf">Notes on Stratified Simplicial Sets</a>
 ---
+
 ### Galois接続
 - 位相空間の開部分集合と位相空間の冪集合([秋桜](https://twitter.com/@cosmos9651))
 
