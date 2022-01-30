@@ -120,8 +120,9 @@ Hom関手とHom関手
 - stratified simplicial setの圏からの関手([準猫](https://twitter.com/@8n_Cat))
 
 <a href="/pdf/stratified_simplicial_set.pdf">Notes on Stratified Simplicial Sets</a>
----
 
+
+---
 ### Galois接続
 - 位相空間の開部分集合と位相空間の冪集合([秋桜](https://twitter.com/@cosmos9651))
 
@@ -139,7 +140,6 @@ Hom関手とHom関手
 
 
 <a href="/pdf/Z and R adjoint.pdf">包含写像と床関数</a>
-
 
 
 ---
