@@ -69,11 +69,18 @@ Hensel化関手と忘却関手
 テンソル関手と忘却関手
 
 忘却関手とHom関手
-- 集合の圏と位相空間の圏
+- 集合の圏と位相空間の圏([秋桜](https://twitter.com/@cosmos9651))
 
-離散空間をとる関手と台集合をとる関手
+<a href="/pdf/Diff and Set adjoint.pdf">離散位相空間をとる関手と台集合をとる関手</a>
 
-台集合をとる関手と密着空間をとる関手
+<a href="/pdf/Diff and Set adjoint.pdf">台集合をとる関手と密着位相空間をとる関手</a>
+
+- 集合の圏と微分空間の圏([秋桜](https://twitter.com/@cosmos9651))
+
+<a href="/pdf/Diff and Set adjoint.pdf">離散微分空間をとる関手と台集合をとる関手</a>
+
+<a href="/pdf/Diff and Set adjoint.pdf">台集合をとる関手と密着微分空間をとる関手</a>
+
 - 位相空間の圏とコンパクトハウスドルフ空間の圏
 
 Stone-Cechコンパクト化関手と忘却関手
@@ -116,7 +123,6 @@ Hom関手とHom関手
 
 ---
 ### 随伴関手をもつ必要十分条件
-
 - stratified simplicial setの圏からの関手([準猫](https://twitter.com/@8n_Cat))
 
 <a href="/pdf/stratified_simplicial_set.pdf">Notes on Stratified Simplicial Sets</a>

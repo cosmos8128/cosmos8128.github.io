@@ -39,6 +39,15 @@
 
   </li>
 
+### 微分空間論
+
+<li><p><strong><a href="/pdf/Diff and Set adjoint.pdf">左右の随伴をもつ忘却関手</a></strong></p>
+
+  <p>忘却関手が左随伴をもつことは多いが右随伴をもつことは少ない。そこで本稿では位相空間と微分空間(diffeological space)を用いて左右の随伴をもつ忘却関手の例をあげる。また、本稿はほとんど前提知識なしで読めるように心がけた。
+</p>
+
+  </li>
+
 ### 力学系
 
 <li><p><strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong></p>
