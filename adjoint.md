@@ -86,7 +86,7 @@ Hensel化関手と忘却関手
 Stone-Cechコンパクト化関手と忘却関手
 - 位相群の圏とHausdorff位相群の圏([ちょーさん](https://twitter.com/@kyo_math1729))
 
-<a href="/pdf/hfftopgrm.pdf">Hausdorff化関手と忘却関手</a>
+<a href="/pdf/hfftopgrp.pdf">Hausdorff化関手と忘却関手</a>
 
 - 位相空間の圏とロケールの圏([hot inoue](https://twitter.com/@hot_math))
 
