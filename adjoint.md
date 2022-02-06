@@ -84,9 +84,14 @@ Hensel化関手と忘却関手
 - 位相空間の圏とコンパクトハウスドルフ空間の圏
 
 Stone-Cechコンパクト化関手と忘却関手
+- 位相群の圏とHausdorff位相群の圏([ちょーさん](https://twitter.com/@kyo_math1729))
+
+<a href="/pdf/hfftopgrm.pdf">Hausdorff化関手と忘却関手</a>
+
 - 位相空間の圏とロケールの圏([hot inoue](https://twitter.com/@hot_math))
 
 <a href="/pdf/TopFrmadj.pdf">開集合系をとる関手とcpフィルターをとる関手</a>
+
 - 位相空間の圏と単体的集合の圏
 
 幾何学的実現関手とsingular functor
