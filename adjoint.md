@@ -148,6 +148,10 @@ Hom関手とHom関手
 <a href="/pdf/stratified_simplicial_set.pdf">Notes on Stratified Simplicial Sets</a>
 
 
+### 圏同値
+- 単体的k加群の圏とk加群のchain複体の圏([準猫](https://twitter.com/@8n_Cat))
+<a href="/pdf/Dold-Kan_correspondence.pdf">Dold-Kan対応</a>
+
 ---
 ### Galois接続
 - 位相空間の開部分集合と位相空間の冪集合([秋桜](https://twitter.com/@cosmos9651))
