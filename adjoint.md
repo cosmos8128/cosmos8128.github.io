@@ -150,6 +150,7 @@ Hom関手とHom関手
 
 ### 圏同値
 - 単体的k加群の圏とk加群のchain複体の圏([準猫](https://twitter.com/@8n_Cat))
+
 <a href="/pdf/Dold-Kan_correspondence.pdf">Dold-Kan対応</a>
 
 ---
