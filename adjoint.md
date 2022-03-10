@@ -116,6 +116,9 @@ fundamental category functorとnerve functor
 
 ---
 ### 双対随伴
+- 集合の圏と順序集合の圏([ちょーさん](https://twitter.com/@kyo_math1729))
+
+<a href="/pdf/SetAndOrderedSet.pdf">upper set全体をとる関手と冪集合関手</a>
 
 ---
 ### 自己随伴

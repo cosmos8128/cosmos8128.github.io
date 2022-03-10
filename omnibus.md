@@ -95,6 +95,8 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2022/1 「形式変形理論概要」
 
+- 2022/2　「モナド」
+
 ---
 
 ### zoom圏論ゼミ
