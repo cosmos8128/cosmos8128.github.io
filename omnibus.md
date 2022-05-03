@@ -97,6 +97,8 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2022/2　「モナド」
 
+- 2022/4　「モデル圏入門」
+
 ---
 
 ### zoom圏論ゼミ
