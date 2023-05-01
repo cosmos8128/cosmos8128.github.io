@@ -25,6 +25,7 @@ MathJax.Hub.Config({
 ---
 #### [ホモトピー論の文献](/posts/20190731)
 
+#### [ひろとぽ](/posts/hirotopo)
 
 
 ---
