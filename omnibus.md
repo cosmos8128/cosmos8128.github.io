@@ -99,6 +99,16 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2022/4　「モデル圏入門」
 
+- 2022/5　「高次ホロノミー表現」
+
+- 2022/6　「三角圏のBrown representability」
+
+- 2022/7　「トポスの有限完備性」
+
+- 2023/2　「Smooth structure」
+
+- 2023/3 「単体的集合の高次ホロノミー」
+
 ---
 
 ### zoom圏論ゼミ

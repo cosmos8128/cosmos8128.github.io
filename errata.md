@@ -17,13 +17,15 @@ MathJax.Hub.Config({
 
 ---
 ### ホモトピー論
-
-<li><p><strong><a href="/pdf/Fiber homotopy errata.pdf">「ファイバー束とホモトピー」非公式誤植表</a></strong></p>
+<lo>
+<li>
+<strong><a href="/pdf/Fiber homotopy errata.pdf">「ファイバー束とホモトピー」非公式誤植表</a></strong>
+</li>
+</lo>
 
   <p>玉木大,『ファイバー束とホモトピー』(森北出版),2020/4/30 発行 第 1 版第 1 刷 準拠
   </p>
-
-  </li>
+  
 ---
 
 **[ホームに戻る](/index)**

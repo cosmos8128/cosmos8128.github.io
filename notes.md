@@ -2,92 +2,97 @@
 
 書いた記事やノートをまとめてあります。
 ### 位相空間論
-
-<li><p><strong><a href="/pdf/ultrafilter.pdf">超フィルターによる位相空間論</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/ultrafilter.pdf">超フィルターによる位相空間論</a>
+</strong>
+</li>
+</lo>
   <p>超フィルターという概念はモデル理論や束論や位相空間論など様々なところで現れる。そこで、今回は位相空間論に視点を絞り、超フィルターによる位相空間論についてまとめる。
   
   超フィルターを用いて議論することは位相空間論に新しい視点を与えるだけでなく、議論が完結になったりと利点も多い。
   そのため、今回は位相空間論の基本的な概念を超フィルターを用いて特徴付けし、距離空間における点列の収束と超フィルターの類似点を述べる。
-  また、様々な位相空間の定理を超フィルターを用いて証明し、最後に超フィルターを用いることで簡潔に証明できるTychonovの定理を示す。</p>
-
+  また、様々な位相空間の定理を超フィルターを用いて証明し、最後に超フィルターを用いることで簡潔に証明できるTychonovの定理を示す。
+  </p>
+<lo>
+  <li>
+  <strong>
+  <a href="/pdf/CWcomplex.pdf">CW複体</a>
+  </strong>
   </li>
-
-  <li><p><strong><a href="/pdf/CWcomplex.pdf">CW複体</a></strong></p>
-
+</lo>
   <p>CW複体は代数的位相幾何学で重要な対象である。そこで、今回はCW複体の定義や例を紹介し、push outによる定義とWhiteheadによる定義の同値性を示し、最後にCW複体が正規空間であることを示す。
   
   このノートはHatcherのAlgebraic TopologyのAppendixのまとめでもある。</p>
 
-  </li>
-
 ### 代数的位相幾何学
-
-<li><p><strong><a href="/pdf/Brown Rep Thm.pdf">Brown Representability Theorem</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/Brown Rep Thm.pdf">Brown Representability Theorem</a>
+</strong>
+</li>
+</lo>
   <p>任意のΩ-spectrumが基点付きCW複体の圏上の簡約コホモロジー論を定める。ここで逆に基点付きCW複体の圏上の任意の簡約コホモロジー論はある Ω-spectrumにより表現されるかという自然な疑問がある。
   この疑問に肯定的な解答を与えるのがBrown representability theoremである。また、特異コホモロジー群がEilenberg-MacLane空間により表現されるということが具体的な計算により得られるが、Brown representability theoremはその別証明を与える。
   今回は、簡約懸垂をとる関手とループ空間をとる関手が互いに随伴関手となることの説明から始め、Brown representability theoremの証明を与える。</p>
 
-  </li>
-
 ### 多様体論
-
-<li><p><strong><a href="/pdf/vector analysis.pdf">微分形式とベクトル解析</a></strong></p>
-
+<lo>
+<li>
+<strong>
+<a href="/pdf/vector analysis.pdf">微分形式とベクトル解析</a></strong>
+</li>
+</lo>
   <p>今回は微分形式などを簡単に説明し、ベクトル解析で扱うgradient(勾配)やrotation(回転)やdivergence(発散)がR^3のde Rham複体と外微分を用いる事で理解できることを述べる.そして,最後にその性質が外微分の性質と一致していることをみる。</p>
 
-  </li>
-
 ### 微分空間論
-
-<li><p><strong><a href="/pdf/Diff and Set adjoint.pdf">左右の随伴をもつ忘却関手</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/Diff and Set adjoint.pdf">左右の随伴をもつ忘却関手</a></strong>
+</li>
+</lo>
   <p>忘却関手が左随伴をもつことは多いが右随伴をもつことは少ない。そこで今回は位相空間と微分空間(diffeological space)を用いて左右の随伴をもつ忘却関手の例をあげる。また、本稿はほとんど前提知識なしで読めるように心がけた。
 </p>
 
-  </li>
-
 ### 力学系
-
-<li><p><strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong>
+</li>
+</lo>
   <p>安定多様体定理とは非線形系が安定多様体と不安定多様体をもち、それぞれが線形化された系の安定部分空間と不安定部分空間に双曲型平衡点で接するというものであり、常微分方程式における定性的な理論の重要な結果の1つである。
   今回は例をあげて安定多様体定理を説明した後に証明を与え、安定多様体定理を用いて安定多様体と不安定多様体を構成する。</p>
 
-  </li>
-
 ### 関数解析
-
-<li><p><strong><a href="/pdf/PaNor and PreHill.pdf">中線定理が成立するノルム空間と内積空間</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/PaNor and PreHill.pdf">中線定理が成立するノルム空間と内積空間</a></strong>
+</li>
+</lo>
   <p>中線定理が成立するノルム空間から自然に内積空間を定義できる. 逆に, 内積空間から自然にノルム空間を定義することができる. これを証明し, 最後にこの事実を圏論を用いて述べる.
-  このノートはノルム空間や内積空間の定義から始め、ほとんど前提知識なしで読めるように心がけた。</p>
-
-  </li>
+  このノートはノルム空間や内積空間の定義から始め、ほとんど前提知識なしで読めるように心がけた。
+  </p>
 
 ### アーベル圏論
-
-<li><p><strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong>
+</li>
+</lo>
   <p>アーベル圏では埋め込み定理を用いて元を取って議論することができるが本稿ではそうではなく普遍性の議論で蛇の補題とコホモロジー長完全列の存在を示す。
   <a href="https://twitter.com/@cosmos8128">@cosmos8128</a>が1章と2章でアーベル圏の基本的な性質をまとめ、蛇の補題を示す。
   その後<a href="https://twitter.com/kyo_math1729">@kyo_math1729</a>が3章でコホモロジー長完全列の存在を示す。</p>
 
-  </li>
-
 ### モナド
-
-<li><p><strong><a href="/pdf/Eilenberg and Kleisli.pdf">アイレンベルグムーア圏とクライスリ圏</a></strong></p>
-
+<lo>
+<li>
+<strong><a href="/pdf/Eilenberg and Kleisli.pdf">アイレンベルグムーア圏とクライスリ圏</a></strong>
+</li>
+</lo>
   <p>任意の随伴からモナドを得ることができる。
   では、任意のモナドから随伴を得ることができるだろうか？
   この問の答えは肯定的であり、アイレンベルグムーア圏を用いたものとクライスリ圏を用いたものの2つの方法がある。
   本稿では、随伴からモナドを得る方法とモナドから随伴を得る2つの方法をまとめ、最後にアイレンベルグムーア圏とクライスリ圏を用いた随伴と代数の比較定理を証明する。</p>
-
-  </li>
-
-
 
 ---
 
