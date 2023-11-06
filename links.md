@@ -43,6 +43,13 @@
   </li>
 </lo>
 
+### 第4回すうがく徒のつどい
+<lo>
+  <li>
+  <strong><a href="/pdf/smooth-str.pdf">CW複体の微分構造</a>
+  </strong>
+  </li>
+</lo>
 ---
 
 **[ホームに戻る](/index)**
