@@ -72,10 +72,10 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 しかし，球面などの位相的なCW complexかつ滑らかな多様体である空間がsmooth CW complexにならないという問題がある．
 また，smooth CW complexは滑らかな1の分割をもつなど滑らかな多様体と似た性質をもつが，一般にreflexiveであることは証明されていない．
 
-本論文は，第１章で微分空間と滑らかな写像の定義を述べ，pullbackやpushforwardをはじめとする微分空間の構成をする．
-そして，ZemmourによるD-topologyとSikorskiによるSikorski空間について紹介し，reflexivityの定義を述べる．
-第２章でfat smooth CW complexを導入し，球面がfat smooth CW complexであることを示す．
-そして，fat smooth CW complexがregularかつ有限次元のときreflexiveであることを示す．
+本論文は，まず，微分空間の定義と基本的なことを述べる．
+そして，fat CW complexを導入するためのsmooth handleを導入し，fat CW complexを定義する．
+その後，fat CW complexのD-Topologyがパラコンパクトハウスドルフであることを示し，fat CW complexは滑らかな1の分割をもち，de Rhamの定理が成り立つことを示す．
+さらに，主定理としてfat CW complexがregularかつ有限次元のときreflexiveであることを示し，閉多様体がfat CW complexであることを示す．
 </p>
 <lo>
 <li>
