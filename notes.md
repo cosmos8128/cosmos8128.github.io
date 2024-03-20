@@ -51,6 +51,7 @@
 <li>
 <strong><a href="https://arxiv.org/abs/2309.07379">A closed manifold is a fat CW complex</a></strong>
 </li>
+</lo>
 <p>
 1980年頃に幾つかの同値でない可微分構造の概念が様々な研究者により独立に与えられた．
 中でもK. T. Chenによるdifferentiable space(以下，Chen空間)は例えばT. Kohnoによりiterated integralへ応用される一方で，J. M. Souriauによるdiffeological space(以下，微分空間)はP. Iglesias-Zemmourをはじめとする研究者によって理論的な整備が進み，Zemmourにより滑らかな多様体の圏には類似物の存在しない微分空間の特徴的な例となるirrational torusが発見されるなど精力的に研究が進められている．
