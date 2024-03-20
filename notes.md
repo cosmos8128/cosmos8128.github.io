@@ -54,24 +54,29 @@
 <p>
 1980年頃に幾つかの同値でない可微分構造の概念が様々な研究者により独立に与えられた．
 中でもK. T. Chenによるdifferentiable space(以下，Chen空間)は例えばT. Kohnoによりiterated integralへ応用される一方で，J. M. Souriauによるdiffeological space(以下，微分空間)はP. Iglesias-Zemmourをはじめとする研究者によって理論的な整備が進み，Zemmourにより滑らかな多様体の圏には類似物の存在しない微分空間の特徴的な例となるirrational torusが発見されるなど精力的に研究が進められている．
-
+</p>
+<p>
 微分空間は滑らかな多様体の一般化である．
 滑らかな多様体のなす圏は極限と余極限に関して閉じておらず，Cartesian閉圏でない．
 しかし，微分空間のなす圏は極限と余極限に閉じており，Cartesian閉圏である．
 そのため，ファイバー積や接着空間などの構成で微分構造が失われず，微分空間との積をとる関手が左随伴関手となる．
-
+</p>
+<p>
 位相空間はユークリッド空間の開集合からの連続写像を考えることで微分空間とみなすことができるのだが逆に，Zemmourは微分空間に対し，D-topologyと呼ばれる位相を定めた．
 微分空間に対し，D-topologyによる位相空間を対応させることで微分空間の圏から位相空間の圏への左随伴関手を得る．
 また，微分空間の圏からR. SikorskiによるSikorski空間のなす圏への左随伴関手も存在する．
 微分空間を上記の左随伴関手とその右随伴関手の合成関手でうつしたものが元の微分空間と一致するとき，その微分空間はreflexiveであると呼ぶ.
-
+</p>
+<p>
 微分空間は滑らかな多様体だけでなく単なる位相空間など様々な種類の空間を含むため，「良い」微分空間とは何かということが問題となる．
 そこで，滑らかな多様体やI. Satake によるV-manifoldやstratified spaceがもつ性質としてreflexivityに注目した．
-
+</p>
+<p>
 N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 しかし，球面などの位相的なCW complexかつ滑らかな多様体である空間がsmooth CW complexにならないという問題がある．
 また，smooth CW complexは滑らかな1の分割をもつなど滑らかな多様体と似た性質をもつが，一般にreflexiveであることは証明されていない．
-
+</p>
+<p>
 本論文は，まず，微分空間の定義と基本的なことを述べる．
 そして，fat CW complexを導入するためのsmooth handleを導入し，fat CW complexを定義する．
 その後，fat CW complexのD-Topologyがパラコンパクトハウスドルフであることを示し，fat CW complexは滑らかな1の分割をもち，de Rhamの定理が成り立つことを示す．
@@ -86,6 +91,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 </p>
 
 ### 力学系
+
 <lo>
 <li>
 <strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong>
@@ -95,6 +101,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   今回は例をあげて安定多様体定理を説明した後に証明を与え、安定多様体定理を用いて安定多様体と不安定多様体を構成する。</p>
 
 ### 関数解析
+
 <lo>
 <li>
 <strong><a href="/pdf/PaNor and PreHill.pdf">中線定理が成立するノルム空間と内積空間</a></strong>
@@ -105,6 +112,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   </p>
 
 ### アーベル圏論
+
 <lo>
 <li>
 <strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong>
@@ -115,6 +123,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   その後<a href="https://twitter.com/kyo_math1729">@kyo_math1729</a>が3章でコホモロジー長完全列の存在を示す。</p>
 
 ### モナド
+
 <lo>
 <li>
 <strong><a href="/pdf/Eilenberg and Kleisli.pdf">アイレンベルグムーア圏とクライスリ圏</a></strong>
