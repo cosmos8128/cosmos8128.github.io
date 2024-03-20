@@ -46,6 +46,37 @@
   <p>今回は微分形式などを簡単に説明し、ベクトル解析で扱うgradient(勾配)やrotation(回転)やdivergence(発散)がR^3のde Rham複体と外微分を用いる事で理解できることを述べる.そして,最後にその性質が外微分の性質と一致していることをみる。</p>
 
 ### 微分空間論
+
+<lo>
+<li>
+<strong><a href="https://arxiv.org/abs/2309.07379">A closed manifold is a fat CW complex</a></strong>
+</li>
+<p>
+1980年頃に幾つかの同値でない可微分構造の概念が様々な研究者により独立に与えられた．
+中でもK. T. Chenによるdifferentiable space(以下，Chen空間)は例えばT. Kohnoによりiterated integralへ応用される一方で，J. M. Souriauによるdiffeological space(以下，微分空間)はP. Iglesias-Zemmourをはじめとする研究者によって理論的な整備が進み，Zemmourにより滑らかな多様体の圏には類似物の存在しない微分空間の特徴的な例となるirrational torusが発見されるなど精力的に研究が進められている．
+
+微分空間は滑らかな多様体の一般化である．
+滑らかな多様体のなす圏は極限と余極限に関して閉じておらず，Cartesian閉圏でない．
+しかし，微分空間のなす圏は極限と余極限に閉じており，Cartesian閉圏である．
+そのため，ファイバー積や接着空間などの構成で微分構造が失われず，微分空間との積をとる関手が左随伴関手となる．
+
+位相空間はユークリッド空間の開集合からの連続写像を考えることで微分空間とみなすことができるのだが逆に，Zemmourは微分空間に対し，D-topologyと呼ばれる位相を定めた．
+微分空間に対し，D-topologyによる位相空間を対応させることで微分空間の圏から位相空間の圏への左随伴関手を得る．
+また，微分空間の圏からR. SikorskiによるSikorski空間のなす圏への左随伴関手も存在する．
+微分空間を上記の左随伴関手とその右随伴関手の合成関手でうつしたものが元の微分空間と一致するとき，その微分空間はreflexiveであると呼ぶ.
+
+微分空間は滑らかな多様体だけでなく単なる位相空間など様々な種類の空間を含むため，「良い」微分空間とは何かということが問題となる．
+そこで，滑らかな多様体やI. Satake によるV-manifoldやstratified spaceがもつ性質としてreflexivityに注目した．
+
+N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
+しかし，球面などの位相的なCW complexかつ滑らかな多様体である空間がsmooth CW complexにならないという問題がある．
+また，smooth CW complexは滑らかな1の分割をもつなど滑らかな多様体と似た性質をもつが，一般にreflexiveであることは証明されていない．
+
+本論文は，第１章で微分空間と滑らかな写像の定義を述べ，pullbackやpushforwardをはじめとする微分空間の構成をする．
+そして，ZemmourによるD-topologyとSikorskiによるSikorski空間について紹介し，reflexivityの定義を述べる．
+第２章でfat smooth CW complexを導入し，球面がfat smooth CW complexであることを示す．
+そして，fat smooth CW complexがregularかつ有限次元のときreflexiveであることを示す．
+</p>
 <lo>
 <li>
 <strong><a href="/pdf/Diff and Set adjoint.pdf">左右の随伴をもつ忘却関手</a></strong>
