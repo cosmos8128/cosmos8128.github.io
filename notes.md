@@ -82,6 +82,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 その後，fat CW complexのD-Topologyがパラコンパクトハウスドルフであることを示し，fat CW complexは滑らかな1の分割をもち，de Rhamの定理が成り立つことを示す．
 さらに，主定理としてfat CW complexがregularかつ有限次元のときreflexiveであることを示し，閉多様体がfat CW complexであることを示す．
 </p>
+
 <lo>
 <li>
 <strong><a href="/pdf/Diff and Set adjoint.pdf">左右の随伴をもつ忘却関手</a></strong>
@@ -89,6 +90,7 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 </lo>
   <p>忘却関手が左随伴をもつことは多いが右随伴をもつことは少ない。そこで今回は位相空間と微分空間(diffeological space)を用いて左右の随伴をもつ忘却関手の例をあげる。また、本稿はほとんど前提知識なしで読めるように心がけた。
 </p>
+
 
 ### 力学系
 
@@ -134,6 +136,6 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   この問の答えは肯定的であり、アイレンベルグムーア圏を用いたものとクライスリ圏を用いたものの2つの方法がある。
   本稿では、随伴からモナドを得る方法とモナドから随伴を得る2つの方法をまとめ、最後にアイレンベルグムーア圏とクライスリ圏を用いた随伴と代数の比較定理を証明する。</p>
 
----
+----
 
 **[ホームに戻る](/index)**
