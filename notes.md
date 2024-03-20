@@ -93,7 +93,6 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
 
 
 ### 力学系
-
 <lo>
 <li>
 <strong><a href="/pdf/The stable manifold theorem.pdf">安定多様体定理</a></strong>
@@ -103,7 +102,6 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   今回は例をあげて安定多様体定理を説明した後に証明を与え、安定多様体定理を用いて安定多様体と不安定多様体を構成する。</p>
 
 ### 関数解析
-
 <lo>
 <li>
 <strong><a href="/pdf/PaNor and PreHill.pdf">中線定理が成立するノルム空間と内積空間</a></strong>
@@ -114,7 +112,6 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   </p>
 
 ### アーベル圏論
-
 <lo>
 <li>
 <strong><a href="/pdf/longcohomology.pdf">蛇の補題とコホモロジー長完全列</a></strong>
@@ -125,7 +122,6 @@ N. IwaseとN. IzumidaやH. Kiharaはsmooth CW complexを定義した．
   その後<a href="https://twitter.com/kyo_math1729">@kyo_math1729</a>が3章でコホモロジー長完全列の存在を示す。</p>
 
 ### モナド
-
 <lo>
 <li>
 <strong><a href="/pdf/Eilenberg and Kleisli.pdf">アイレンベルグムーア圏とクライスリ圏</a></strong>
