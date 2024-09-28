@@ -12,13 +12,11 @@
 
 - 2019/5 「Kan拡張は関手圏の随伴を与える」
 
-参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/05/14/141116)
+参考資料:[壱大整域](http://alg-d.com/math/kan_extension/)
 
 - 2019/6 「全ての概念はKan拡張」「エンドとFubiniの定理」
 
-参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/06/10/122241)
-
-参考資料:[ゐぶの数学日記](https://ibu8128.hatenablog.com/entry/2019/06/12/113843)
+参考資料:[壱大整域](http://alg-d.com/math/kan_extension/)
 
 - 2019/7 「2圏」
 
@@ -117,11 +115,21 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2024/2　「(∞,1)圏のモデルについて」
 
+- 2024/4　「完備Segal空間について」
+
+- 2024/5　「反復積分とホモトピー極限」
+
+- 2024/6　「dg圏，A_infty圏，安定圏の関係」
+
+- 2024/7　「ind化のいくつかの一般化」
+
+- 2024/8　「diffeological spaceにおけるdeRhamの定理の反例」
+
 ---
 
 ### zoom圏論ゼミ
 
-新型コロナウイルスの関係でzoomが使われるようになったことを生かし、誰でもどこからでも参加できる圏論ゼミをはじめました。参加希望の方は[@cosmos8128](https://twitter.com/@cosmos8128)へ連絡ください。
+新型コロナウイルスの関係でzoomが使われるようになったことを生かし、誰でもどこからでも参加できる圏論ゼミをはじめました。
 
 - 2020/4 「Galois接続の可換環論への応用」
 
