@@ -50,6 +50,16 @@
   </strong>
   </li>
 </lo>
+
+### 第6回すうがく徒のつどい
+<lo>
+  <li>
+  <strong><a href="/pdf/qiso_htpyeq.pdf">Weak equivalence and homotopy equivalence</a>
+  </strong>
+  </li>
+</lo>
+
+
 ---
 
 **[ホームに戻る](/index)**
