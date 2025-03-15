@@ -119,11 +119,19 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2024/5　「反復積分とホモトピー極限」
 
-- 2024/6　「dg圏，A_infty圏，安定圏の関係」
+- 2024/6　「Dg圏，A_infty圏，安定圏の関係」
 
-- 2024/7　「ind化のいくつかの一般化」
+- 2024/7　「Ind化のいくつかの一般化」
 
-- 2024/8　「diffeological spaceにおけるdeRhamの定理の反例」
+- 2024/8　「Diffeological spaceにおけるdeRhamの定理の反例」
+
+- 2024/10　「Weak equivalence and homotopy equivalence」
+
+- 2024/12　「Six-functor formalism」
+
+- 2025/01　「層量子化について」
+
+- 2025/02　「Condensed mathematics」
 
 ---
 
