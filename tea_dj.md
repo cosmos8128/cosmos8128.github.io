@@ -19,7 +19,14 @@ MathJax.Hub.Config({
 
 #### 1st Flush
 
-
+- 2025 ROHINI農園 Moonlight EX-1
+<p>
+<img src="./tea/25_1st_rohini_moonlight_ex_1.jpeg">
+</p>
+<p>
+口当たりが優しくまさに月の光のようなとても優しい甘味ですごく美味しい，
+物足りないと感じる人もいなくはなく，好みは分かれそうですが，私はとても好みで特にアイスティーにすると絶品でした．
+</p>
 
 - 2024 THURBO農園 Clonal DJ-12
 <p>

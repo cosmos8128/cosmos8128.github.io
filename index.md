@@ -36,7 +36,7 @@ title-heading: false
 #### <a href="/errata">誤植表</a>
 誤植表がまとめてあります．
 
-#### <a href="/tea_dj">誤植表</a>
+#### <a href="/tea_dj">紅茶紹介</a>
 美味しい紅茶を紹介します．
 
 #### <span style="font-size:11pt;">連絡先</span>
