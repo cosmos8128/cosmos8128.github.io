@@ -18,10 +18,18 @@ MathJax.Hub.Config({
 ### DARJEELING
 
 #### 1st Flush
-2024 THURBO農園 Clonal DJ-12
+
+
+
+- 2024 THURBO農園 Clonal DJ-12
+<p>
 <img src="./tea/24_1st_thurbo_clonal_dj_12.jpeg">
+</p>
+<p>
 ホットはもちろんですが，アイスティーにすると淡い甘味が良くでてとても美味しいです．
 甘味だけでなく，しっかりした部分もあり，バランスの良い味だと思います．
+</p>
+
 
 #### 2nd Flush
 

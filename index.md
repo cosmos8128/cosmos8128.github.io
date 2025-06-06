@@ -22,7 +22,7 @@ title-heading: false
 書いた記事やノートをまとめてあります．
 
 #### <a href="/adjoint">随伴図鑑</a>
-随伴をまとめてあります．
+随伴関手をまとめてあります．
 
 #### <a href="/posts">文献紹介</a>
 様々な分野の文献を紹介します．
@@ -35,6 +35,9 @@ title-heading: false
 
 #### <a href="/errata">誤植表</a>
 誤植表がまとめてあります．
+
+#### <a href="/tea_dj">誤植表</a>
+美味しい紅茶を紹介します．
 
 #### <span style="font-size:11pt;">連絡先</span>
 - Twitter: [@cosmos8128](https://twitter.com/@cosmos8128)
