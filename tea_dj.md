@@ -49,12 +49,21 @@ MathJax.Hub.Config({
 
 #### 2nd Flush
 
-- 2024 SINGBRULI農園 China DJ-93
+- 2024 SINGBRULI農園 China Musk EX-50
 <p>
-<img src="./tea/24_2nd_singbruli_china_musk_dj_93.jpeg">
+<img src="./tea/24_2nd_singbuli_chinamusk_ex_50.jpeg">
 </p>
 <p>
-しっかり香りが強く，深い甘味があり，とても美味しいです．
+香ばしくとても甘い良い香りでしっかりとした深い甘味でとても美味しいです．
+2024年の2nd flushでは個人的に1番好みでした．
+</p>
+
+- 2024 SINGBRULI農園 China Musk DJ-93
+<p>
+<img src="./tea/24_2nd_singbuli_china_musk_dj_93.jpeg">
+</p>
+<p>
+香ばしく甘い香りでしっかりとしたのもごたえがあり，とても美味しいです．
 バランスの良い間違いないものだと思います．
 </p>
 
