@@ -86,7 +86,23 @@ MathJax.Hub.Config({
 バランスの良い間違いないものだと思います．
 </p>
 
+### ASSAM
+
+#### 2nd Flush
+
+- 2024 HALMARI農園 TGFOP Cl
+<p>
+<img src="./tea/24_2nd_halmari_cl.jpg">
+</p>
+<p>
+とてもフローラルな良い香りで濃密ながらキレのある風味でとても美味しかったです．
+ミルクティもアイスティも美味しいですが，私は華やかな香りを1番楽しめるホットのストレートティが好みでした．<br>
+私は試せてないですが，ドイツ・東フリースラント式のアレンジティにしても美味しいらしいです．(Gclefさんが紹介していました．)<br>
+氷砂糖をカップに入れて，熱々の紅茶を注ぎ，最後にクリームを加えて混ぜずに味のグラデーションを楽しむ様です．
+</p>
+
 ### DIMBULA
+
 - 2024 ガウラウィラ茶園 BOPF
 <p>
 <img src="./tea/24_dimbula_ガウラウィラ_BOPF.jpeg">
@@ -98,6 +114,7 @@ MathJax.Hub.Config({
 </p>
 
 ### NILGIRI
+
 - 2025 Seasonal KAIRBETTA農園 SFTGFOP Winter Speciality
 <p>
 <img src="./tea/25_seazonal_kairbetta_SFTGFOP_WinterSpeciality.jpg">
