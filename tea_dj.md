@@ -90,7 +90,7 @@ MathJax.Hub.Config({
 
 #### 2nd Flush
 
-- 2024 HATTIALLI農園 TGFOP1
+- 2024 HATTIALLI農園 STGFOP1
 <p>
 <img src="./tea/24_2nd_hattialli.jpg">
 </p>
