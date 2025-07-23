@@ -19,7 +19,32 @@ MathJax.Hub.Config({
 
 #### 1st Flush
 
-- 2025 ROHINI農園 Moonlight EX-1
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 ROHINI農園 Moonlight EX-1</p>
+    <img src="./tea/25_1st_rohini_moonlight_ex_1.jpeg" alt="2025 ROHINI農園 Moonlight EX-1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">やさしい香りがとても良く，口当たりも優しく，まさに月の光のようなとてもまろやかな甘みを感じられてすごく美味しいです．
+物足りないと感じる人もいなくはなく，好みは分かれそうですが，私はとても好みで絶品でした．
+少し多めの茶葉で数杯楽しむのもとても良いと思います．</p>
+  </div>
+
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 ARYA農園 China EX-10</p>
+    <img src="./tea/25_1st_arya_ex_10_china.jpg" alt="2025 ARYA農園 China EX-10" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">若々しい爽やかな香りで心地良い渋みと優しい甘みを感じられてとても美味しいです．</br>
+アイスティも美味しいですが，個人的にはホットが好みでした．
+お湯の温度を80度くらいまで下げ，少し長い時間抽出することで心地良い渋みを残しながらも口当たりを優しくして飲むことができるのでおすすめです．</p>
+  </div>
+
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 ARYA農園 Diamond EX-28</p>
+    <img src="./tea/24_1st_arya_ex_28_diamond.jpg" alt="2024 ARYA農園 Diamond EX-28" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">華やかなやさしい香りですっきりとしていて渋みが少なく，透明感のあるまろやかな味わいでホットはもちろん，アイスティにするととても美味しいです．
+2024年の1st flushでは個人的に1番好みでした．</p>
+  </div>
+</div>
+
+<!-- - 2025 ROHINI農園 Moonlight EX-1
 <p>
 <img src="./tea/25_1st_rohini_moonlight_ex_1.jpeg">
 </p>
@@ -46,7 +71,7 @@ MathJax.Hub.Config({
 <p>
 華やかなやさしい香りですっきりとしていて渋みが少なく，透明感のあるまろやかな味わいでホットはもちろん，アイスティにするととても美味しいです．
 2024年の1st flushでは個人的に1番好みでした．
-</p>
+</p> -->
 
 - 2024 THURBO農園 Clonal DJ-12
 <p>
