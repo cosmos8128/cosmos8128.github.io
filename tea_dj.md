@@ -306,13 +306,12 @@ MathJax.Hub.Config({
     少し多めに入れて複数杯目で砂糖を多めに入れたミルクティにして楽しむのがおすすめです．</p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
-    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
-    ストレートはもちろん，ミルクティも美味しかったです．
-    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 Holyrood茶園 BOP</p>
+    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
+    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
+  </div>
 </div>
 
 <!-- - 2024 ガウラウィラ茶園 BOPF
