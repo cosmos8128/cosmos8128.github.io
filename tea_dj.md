@@ -294,6 +294,23 @@ MathJax.Hub.Config({
 嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．
 </p> -->
 
+### NUWARAELIYA
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 Pedro茶園 BOP</p>
+    <img src="./tea/24_nuwaraelia_pedro.jpg" alt="2024 Pedro茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">若々しい良い香りで華やかな甘みがあってとても美味しいです．<br>
+    余韻にどこか檸檬の様な柑橘系の風味があり，ストレートも良いですが，アイスティも美味しいです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 Holyrood茶園 BOP</p>
+    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
+    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
+  </div> -->
+</div>
 
 ### DIMBULA
 
