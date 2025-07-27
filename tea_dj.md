@@ -341,6 +341,30 @@ MathJax.Hub.Config({
 少し多めに入れて複数杯目で砂糖を多めに入れたミルクティにして楽しむのがおすすめです．
 </p> -->
 
+### NEPAL
+
+#### 1st Flush
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 Jun Chiyabari茶園 Himalayan White 新緑</p>
+    <img src="./tea/25_1st_nepal_junchiyabari_himalayanwhite_新緑.jpg" alt="2025 Jun Chiyabari茶園 Himalayan White 新緑" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りで水色は薄いですが，まろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
+    水色は薄いのですが，満足感が高く，ストレートで飲んでもアイスティにしても美味しいです．<br>
+    また，低い温度で入れるとまろやかな甘みをより感じられ，高い温度で入れると香ばしさとキレをより感じられ，入れ方によって味わいが色々楽しめるのも面白いです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
+    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
+    ストレートはもちろん，ミルクティも美味しかったです．
+    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
+  </div> -->
+</div>
+
+#### 2nd Flush
+
 ### NILGIRI
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
