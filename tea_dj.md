@@ -266,34 +266,6 @@ MathJax.Hub.Config({
 </p> -->
 
 
-### SABARAGAMUWA
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 コロンナ茶園 BOP1</p>
-    <img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg" alt="2024 コロンナ茶園 BOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">深く甘い香りと味でまるで蜂蜜を思わせる様な奥行きを感じられます．<br>
-    嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．</p>
-  </div>
-
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
-    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
-    ストレートはもちろん，ミルクティも美味しかったです．
-    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
-  </div> -->
-</div>
-
-<!-- - 2024 コロンナ茶園 BOP1
-<p>
-<img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg">
-</p>
-<p>
-深く甘い香りと味でまるで蜂蜜を思わせる様な奥行きを感じられます．
-嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．
-</p> -->
-
 ### NUWARAELIYA
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
@@ -341,6 +313,53 @@ MathJax.Hub.Config({
 少し多めに入れて複数杯目で砂糖を多めに入れたミルクティにして楽しむのがおすすめです．
 </p> -->
 
+### SABARAGAMUWA
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 コロンナ茶園 BOP1</p>
+    <img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg" alt="2024 コロンナ茶園 BOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">深く甘い香りと味でまるで蜂蜜を思わせる様な奥行きを感じられます．<br>
+    嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
+    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
+    ストレートはもちろん，ミルクティも美味しかったです．
+    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
+  </div> -->
+</div>
+
+<!-- - 2024 コロンナ茶園 BOP1
+<p>
+<img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg">
+</p>
+<p>
+深く甘い香りと味でまるで蜂蜜を思わせる様な奥行きを感じられます．
+嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．
+</p> -->
+
+### RUHUNA
+
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 Dellawa茶園 BOP</p>
+    <img src="./tea/24_ruhuna_dellawa_BOP.jpeg" alt="2024 ガウラウィラ茶園 BOPF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">香ばしい良い香りでどこか黒糖のような甘さを感じてコクがあり，渋みが少なくてとても美味しいです．<br>
+    ゆっくりとストレートで飲むのがおすすめです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 Holyrood茶園 BOP</p>
+    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
+    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
+  </div> -->
+</div>
+
 ### NEPAL
 
 #### 1st Flush
@@ -349,8 +368,8 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2025 Jun Chiyabari茶園 Himalayan White 新緑</p>
     <img src="./tea/25_1st_nepal_junchiyabari_himalayanwhite_新緑.jpg" alt="2025 Jun Chiyabari茶園 Himalayan White 新緑" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りで水色は薄いですが，まろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
-    水色は薄いのですが，満足感が高く，ストレートで飲んでもアイスティにしても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りでまろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
+    水色は薄いのですが，満足感が高く，ストレートでゆっくり飲むのが格別です．<br>
     また，低い温度で入れるとまろやかな甘みをより感じられ，高い温度で入れると香ばしさとキレをより感じられ，入れ方によって味わいが色々楽しめるのも面白いです．</p>
   </div>
 
