@@ -17,6 +17,9 @@ MathJax.Hub.Config({
 
 ### DARJEELING
 
+ダージリンはインドにある北緯26度27分から27度13分，東経87度59分から88度53分の約31万4900haほどの土地で80を超える茶園をもつ紅茶の名産地です．<br>
+作付面積は約1万4900haで大体利尻島ほどの小さな区画で紅茶が作られています．
+
 #### 1st Flush
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
@@ -154,6 +157,8 @@ MathJax.Hub.Config({
 </p> -->
 
 ### ASSAM
+
+アッサムはダージリンが山間部であることに比べると平原で高温多湿であることが特徴的です．
 
 #### 1st Flush
 
@@ -343,7 +348,6 @@ MathJax.Hub.Config({
 
 ### RUHUNA
 
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 Dellawa茶園 BOP</p>
@@ -385,6 +389,8 @@ MathJax.Hub.Config({
 #### 2nd Flush
 
 ### NILGIRI
+
+ニルギリは雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティシーズンです．
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
