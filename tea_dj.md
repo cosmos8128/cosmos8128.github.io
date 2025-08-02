@@ -275,7 +275,7 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 Pedro茶園 BOP</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 PEDORO茶園 BOP</p>
     <img src="./tea/24_nuwaraelia_pedro.jpg" alt="2024 Pedro茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">若々しい良い香りで華やかな甘みがあってとても美味しいです．<br>
     余韻にどこか檸檬の様な柑橘系の風味があり，ストレートも良いですが，アイスティも美味しいです．</p>
@@ -301,7 +301,7 @@ MathJax.Hub.Config({
   </div>
 
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2023 Holyrood茶園 BOP</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 HOLYROOD茶園 BOP</p>
     <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
     1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
@@ -322,7 +322,7 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 コロンナ茶園 BOP1</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 KORONNA茶園 BOP1</p>
     <img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg" alt="2024 コロンナ茶園 BOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">深く甘い香りと味でまるで蜂蜜を思わせる様な奥行きを感じられます．<br>
     嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．</p>
@@ -350,18 +350,18 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 Dellawa茶園 BOP</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 DELLAWA茶園 BOP</p>
     <img src="./tea/24_ruhuna_dellawa_BOP.jpeg" alt="2024 ガウラウィラ茶園 BOPF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">香ばしい良い香りでどこか黒糖のような甘さを感じてコクがあり，渋みが少なくてとても美味しいです．<br>
     ゆっくりとストレートで飲むのがおすすめです．</p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2023 Holyrood茶園 BOP</p>
-    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
-    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 CTC HINGALGODA茶園 PF1</p>
+    <img src="./tea/24_ruhuna_CTC_hingalgoda_PF1.jpg" alt="2024 CTC Hingalgoda茶園 PF1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">どこかナッツやアーモンドの様な香ばしい香りでどっしりと濃厚でコクのあるミルクティを楽しめます．<br>
+    Hingalgoda茶園はスリランカ南部のヒニドゥマにありますが，コロンボ・ティー・オークションで20年以上トッププライスを記録し続けている評価の高い茶園です．</p>
+  </div>
 </div>
 
 ### NEPAL
@@ -370,7 +370,7 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2025 Jun Chiyabari茶園 Himalayan White 新緑</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 新緑</p>
     <img src="./tea/25_1st_nepal_junchiyabari_himalayanwhite_新緑.jpg" alt="2025 Jun Chiyabari茶園 Himalayan White 新緑" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りでまろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
     水色は薄いのですが，満足感が高く，ストレートでゆっくり飲むのが格別です．<br>
