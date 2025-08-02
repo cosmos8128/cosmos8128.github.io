@@ -273,6 +273,9 @@ MathJax.Hub.Config({
 
 ### NUWARAELIYA
 
+ヌワラエリヤはスリランカの中央山脈(ピドゥルタラーガラ山)の最高地に位置する紅茶の名産地でハイグロウンに分類されます．<br>
+セイロンティのシャンパンと称されるほど明るい淡い水色に緑茶を思わせる若々しい清涼感のある香りと爽やかですっきりした口当たりのものが多く，冬がクオリティーシーズンです．
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 PEDORO茶園 BOP</p>
@@ -290,6 +293,9 @@ MathJax.Hub.Config({
 </div>
 
 ### DIMBULA
+
+ディンブラはスリランカの中央山脈の西側斜面に広がる高地に位置する紅茶の名産地でハイグロウンに分類されます．<br>
+明るい深みのある水色で花の様な華やかな香りでコクが深い味わいのものが多く，北東モンスーンの影響で乾季になる冬がクオリティーシーズンです．
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
@@ -318,7 +324,28 @@ MathJax.Hub.Config({
 少し多めに入れて複数杯目で砂糖を多めに入れたミルクティにして楽しむのがおすすめです．
 </p> -->
 
+### UVA
+
+ウバはスリランカの中央山脈の東側斜面に位置する紅茶の名産地でハイグロウンとミディアムグロウンに分類されます．<br>
+水色は明るい透明感のある琥珀色で爽快でキレのある香り(ウバフレーバーとも呼ばれるメンソール系の香り)と味わいのものが多く，南西モンスーンの影響で乾季になる夏がクオリティーシーズンです．<br>
+
+
+### UDA PUSSELLAWA 
+
+ウダブッセラワはスリランカの中央山脈東側に位置する紅茶の名産地でハイグロウンとミディアムグロウンに分類されます．<br>
+ヌワラエリヤとウバの間に位置しているので香りと味わいもその良いところどりのものが多く，ヌワラエリヤに面した地域は冬がクオリティーシーズンでウバに面した地域では夏がクオリティーシーズンになります．
+
+### KANDY
+
+キャンディはスリランカ中央部に位置する紅茶の名産地でミディアムグロウンに分類されます．<br>
+水色は明るい赤銅色で穏やかな香りとまろやかな口当たりのものが多いです．
+
 ### SABARAGAMUWA
+
+サバラガムワはスリランカの南西部に位置する紅茶の名産地であり，ローグロウンに分類されます．<br>
+元々はルフナとひとまとめにされていましたが，ルフナの様なスモーキーさより黒糖や蜂蜜の様な甘味が特徴的なため独立した産地として確立しました．<br>
+水色は濃い真紅色で濃厚で甘味が強く，コクがある味わいのものが多いです．
+
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
@@ -347,6 +374,10 @@ MathJax.Hub.Config({
 </p> -->
 
 ### RUHUNA
+
+ルフナはシンハラ語で南を意味する名の通りスリランカの南に位置する紅茶の名産地でローグロウンに分類されます．<br>
+水色は濃い赤褐色でスモーキーな香りで濃厚で力強い濃くがある味わいのものが多いです．
+
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
@@ -390,7 +421,7 @@ MathJax.Hub.Config({
 
 ### NILGIRI
 
-ニルギリは雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティシーズンです．
+ニルギリは雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティーシーズンです．
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
