@@ -358,13 +358,13 @@ MathJax.Hub.Config({
     嫌な渋みは一切なく，ストレートでゆっくり飲むのがおすすめですが，アイスでも美味しいです．</p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
-    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
-    ストレートはもちろん，ミルクティも美味しかったです．
-    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 GALBADI TENNE茶園 PF1</p>
+    <img src="./tea/24_sabaragamuwa_CTC_GalbadiTenne_PF1.jpg" alt="2024 GALBADI TENNE茶園 PF1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">深みがあり，とても香ばしい香りでキレのあるミルクティを楽しめます．<br>
+    後味がまるでカフェオレのような飲み心地でとても面白い紅茶です．<br>
+    温度が下がっても余韻が長く，ゆーーっくりと楽しむのがおすすめです．</p>
+  </div>
 </div>
 
 <!-- - 2024 コロンナ茶園 BOP1
@@ -426,7 +426,7 @@ MathJax.Hub.Config({
 
 ### NILGIRI
 
-ニルギリは南インドの西ガーつ山脈の広陵地帯に位置する紅茶の名産地です．<br>
+ニルギリは南インドの西ガーツ山脈の広陵地帯に位置する紅茶の名産地です．<br>
 現地のタミル語では青い山という意味であり，標高は1000m以上であり紅茶のブルーマウンテンとも称されます．<br>
 雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティーシーズンです．
 
