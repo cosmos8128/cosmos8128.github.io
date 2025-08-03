@@ -158,7 +158,7 @@ MathJax.Hub.Config({
 
 ### ASSAM
 
-アッサムはダージリンが山間部であることに比べると平原で高温多湿であることが特徴的です．
+アッサムはインド北東のヒマラヤ山脈の麓，ブラマプトラ川流域の平野部に位置する紅茶の名産地であり，ダージリンが山間部であることに比べると平原で高温多湿であることから力強い風味をもつアッサム種の茶葉が栽培されています．
 
 #### 1st Flush
 
@@ -237,6 +237,9 @@ MathJax.Hub.Config({
 </p> -->
 
 ### DOOARS
+
+ドアーズはインド北東部，ヒマラヤ山脈の麓の標高30mから300mの低地でダージリンとアッサムの間に位置する紅茶の名産地です．<br>
+香りと味わいはダージリンとアッサムの良いところどりのものが多く，クオリティーシーズンは秋です．
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
@@ -376,7 +379,7 @@ MathJax.Hub.Config({
 ### RUHUNA
 
 ルフナはシンハラ語で南を意味する名の通りスリランカの南に位置する紅茶の名産地でローグロウンに分類されます．<br>
-水色は濃い赤褐色でスモーキーな香りで濃厚で力強い濃くがある味わいのものが多いです．
+水色は濃い赤褐色でスモーキーな香りで濃厚で力強いコクがある味わいのものが多いです．
 
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
@@ -396,6 +399,8 @@ MathJax.Hub.Config({
 </div>
 
 ### NEPAL
+
+ネパールはインドのダージリンと国境を接するヒマラヤ山脈麓に位置する紅茶の名産地でダージリンとほぼ同じ気候風土のためダージリンに似た香りと味わいのものが多いです．
 
 #### 1st Flush
 
@@ -421,7 +426,9 @@ MathJax.Hub.Config({
 
 ### NILGIRI
 
-ニルギリは雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティーシーズンです．
+ニルギリは南インドの西ガーつ山脈の広陵地帯に位置する紅茶の名産地です．<br>
+現地のタミル語では青い山という意味であり，標高は1000m以上であり紅茶のブルーマウンテンとも称されます．<br>
+雨が少なく，寒暖差が大きいことが特徴としてあり，冬がクオリティーシーズンです．
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
