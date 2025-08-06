@@ -302,7 +302,7 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 ガウラウィラ茶園 BOPF</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 春茶 GAURAVILLA茶園 BOPF</p>
     <img src="./tea/24_dimbula_ガウラウィラ_BOPF.jpeg" alt="2024 ガウラウィラ茶園 BOPF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">しっかりと甘みが強く，とても美味しいです．<br>
     ストレートも良いですが，ミルクティにすると絶品です．
