@@ -359,7 +359,7 @@ MathJax.Hub.Config({
   </div>
 
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 GALBADI TENNE茶園 PF1</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 GALBADI TENNE茶園 CTC PF1</p>
     <img src="./tea/24_sabaragamuwa_CTC_GalbadiTenne_PF1.jpg" alt="2024 GALBADI TENNE茶園 PF1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">深みがあり，とても香ばしい香りでキレのあるミルクティを楽しめます．<br>
     後味がまるでカフェオレのような飲み心地でとても面白い紅茶です．<br>
@@ -391,7 +391,7 @@ MathJax.Hub.Config({
   </div>
 
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 CTC HINGALGODA茶園 PF1</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 HINGALGODA茶園 CTC PF1</p>
     <img src="./tea/24_ruhuna_CTC_hingalgoda_PF1.jpg" alt="2024 CTC Hingalgoda茶園 PF1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">どこかナッツやアーモンドの様な香ばしい香りでどっしりと濃厚でコクのあるミルクティを楽しめます．<br>
     Hingalgoda茶園はスリランカ南部のヒニドゥマにありますが，コロンボ・ティー・オークションで20年以上トッププライスを記録し続けている評価の高い茶園です．</p>
