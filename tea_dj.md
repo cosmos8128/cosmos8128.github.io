@@ -381,14 +381,31 @@ MathJax.Hub.Config({
 ルフナはシンハラ語で南を意味する名の通りスリランカの南に位置する紅茶の名産地でローグロウンに分類されます．<br>
 水色は濃い赤褐色でスモーキーな香りで濃厚で力強いコクがある味わいのものが多いです．
 
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 夏茶 NEW VITHANAKANDE茶園 BOP</p>
+    <img src="./tea/25_ruhuna_NewVithanakande_夏茶_BOP.jpeg" alt="2025 夏茶 NEW VITHANAKANDE茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">製茶したばかりのフレッシュなものを購入できました！<br>
+    黒糖を思わせるようなものすごい甘い香りで濃厚な甘みを感じられます．
+    しっかりとしたコクがあり，濃厚ですが後味はどこかすっきりしており，製茶したてのフレッシュさを感じられます．<br>
+    ミルクティにしても美味しいですが，ストレートでゆっくり飲むのがおすすめです．</p>
+  </div>
+
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 DELLAWA茶園 BOP</p>
     <img src="./tea/24_ruhuna_dellawa_BOP.jpeg" alt="2024 ガウラウィラ茶園 BOPF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">香ばしい良い香りでどこか黒糖のような甘さを感じてコクがあり，渋みが少なくてとても美味しいです．<br>
     ゆっくりとストレートで飲むのがおすすめです．</p>
   </div>
+</div>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 DELLAWA茶園 BOP</p>
+    <img src="./tea/24_ruhuna_dellawa_BOP.jpeg" alt="2024 ガウラウィラ茶園 BOPF" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">香ばしい良い香りでどこか黒糖のような甘さを感じてコクがあり，渋みが少なくてとても美味しいです．<br>
+    ゆっくりとストレートで飲むのがおすすめです．</p>
+  </div> -->
 
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 HINGALGODA茶園 CTC PF1</p>
