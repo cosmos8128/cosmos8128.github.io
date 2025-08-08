@@ -386,7 +386,7 @@ MathJax.Hub.Config({
     <p style="margin: 0 0 10px; font-size: 14px;">2025 夏茶 NEW VITHANAKANDE茶園 BOP</p>
     <img src="./tea/25_ruhuna_NewVithanakande_夏茶_BOP.jpeg" alt="2025 夏茶 NEW VITHANAKANDE茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">製茶したばかりのフレッシュなものを購入できました！<br>
-    黒糖を思わせるようなものすごい甘い香りで濃厚な甘みを感じられます．
+    甘露飴を思わせるようなものすごい甘い香りで濃厚な甘みを感じられます．
     しっかりとしたコクがあり，濃厚ですが後味はどこかすっきりしており，製茶したてのフレッシュさを感じられます．<br>
     ミルクティにしても美味しいですが，ストレートでゆっくり飲むのがおすすめです．</p>
   </div>
