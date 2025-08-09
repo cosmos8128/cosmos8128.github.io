@@ -156,6 +156,24 @@ MathJax.Hub.Config({
 バランスの良い間違いないものだと思います．
 </p> -->
 
+#### AUTUMNAL
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 THURBO農園 Autumn China Delight EX-31</p>
+    <img src="./tea/24_Autumnal_Thurbo_AutumnChinaDelight_ex31.jpg" alt="2024 THURBO農園 Autumn China Delight EX-31" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">どこか桃のような甘い香りで穏やかな渋みと甘味でとても美味しいです．<br>
+    ケーキなどに合わせるのが良いと思います．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 SINGBRULI農園 China Musk DJ-93</p>
+    <img src="./tea/24_2nd_singbuli_china_musk_dj_93.jpeg" alt="2024 SINGBRULI農園 China Musk DJ-93" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">香ばしく甘い香りでしっかりとした飲み応えがあり，とても美味しいです．
+    バランスの良い間違いないものだと思います．</p>
+  </div> -->
+</div>
+
 ### ASSAM
 
 アッサムはインド北東のヒマラヤ山脈の麓，ブラマプトラ川流域の平野部に位置する紅茶の名産地であり，ダージリンが山間部であることに比べると平原で高温多湿であることから力強い風味をもつアッサム種の茶葉が栽培されています．
