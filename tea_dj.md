@@ -448,13 +448,13 @@ MathJax.Hub.Config({
     また，低い温度で入れるとまろやかな甘みをより感じられ，高い温度で入れると香ばしさとキレをより感じられ，入れ方によって味わいが色々楽しめるのも面白いです．</p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
-    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
-    ストレートはもちろん，ミルクティも美味しかったです．
-    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 可憐</p>
+    <img src="./tea/25_1st_nepal_jinchiyabari_himalayanwhite_可憐.jpg" alt="2025 JUN CHIYABARI茶園 Himalayan White 可憐" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">とても華やかな香りで透明感のある柔らかな甘味でとても美味しいです．<br>
+    フレッシュな爽快さも感じられて渋みも少ないので複数杯飲むのもおすすめです．<br>
+    一芯二葉さんの言葉を借りると，少量の熱湯をさっと注いでから渋みが出る前に速やかに低温のお湯を加えることで，熱湯からはキレのある爽快な香りが，低温のお湯からはまろやかな甘味が引き出せるようです．</p>
+  </div>
 </div>
 
 #### 2nd Flush
