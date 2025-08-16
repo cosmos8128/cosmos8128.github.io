@@ -356,6 +356,22 @@ MathJax.Hub.Config({
 ウダブッセラワはスリランカの中央山脈東側に位置する紅茶の名産地でハイグロウンとミディアムグロウンに分類されます．<br>
 ヌワラエリヤとウバの間に位置しているので香りと味わいもその良いところどりのものが多く，ヌワラエリヤに面した地域は冬がクオリティーシーズンでウバに面した地域では夏がクオリティーシーズンになります．
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 Delmar茶園 FBOP</p>
+    <img src="./tea/24_udapussellawa_delmar_FBOP.jpg" alt="2024 Delmar茶園 FBOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">少しスパイシーなナツメグのような少し甘いような風変わりな香りで渋みの少ない味わいでとても美味しいです．<br>
+    ストレートでゆったりと飲むのがおすすめです．冷めてもまた香りが際立って面白いです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 HOLYROOD茶園 BOP</p>
+    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
+    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
+  </div> -->
+</div>
+
 ### KANDY
 
 キャンディはスリランカ中央部に位置する紅茶の名産地でミディアムグロウンに分類されます．<br>
