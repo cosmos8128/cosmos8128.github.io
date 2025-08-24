@@ -377,6 +377,24 @@ MathJax.Hub.Config({
 キャンディはスリランカ中央部に位置する紅茶の名産地でミディアムグロウンに分類されます．<br>
 水色は明るい赤銅色で穏やかな香りとまろやかな口当たりのものが多いです．
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 NAYAPANA茶園 OP1</p>
+    <img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg" alt="2024 NAYAPANA茶園 OP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">フルーティで穏やかな香りで杏のような甘みをある味わいでとても美味しいです．<br>
+    80度くらいの少し低めの温度のお湯で淹れると甘味が増してとても美味しいです．<br>
+    ナヤパーヤ茶園はコロンボ・オーディションでもトッププライスを記録し続ける有名な茶園です．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 GALBADI TENNE茶園 CTC PF1</p>
+    <img src="./tea/24_sabaragamuwa_CTC_GalbadiTenne_PF1.jpg" alt="2024 GALBADI TENNE茶園 PF1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">深みがあり，とても香ばしい香りでキレのあるミルクティを楽しめます．<br>
+    後味がまるでカフェオレのような飲み心地でとても面白い紅茶です．<br>
+    温度が下がっても余韻が長く，ゆーーっくりと楽しむのがおすすめです．</p>
+  </div> -->
+</div>
+
 ### SABARAGAMUWA
 
 サバラガムワはスリランカの南西部に位置する紅茶の名産地であり，ローグロウンに分類されます．<br>
