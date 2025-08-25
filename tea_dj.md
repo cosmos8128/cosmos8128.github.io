@@ -350,6 +350,21 @@ MathJax.Hub.Config({
 ウバはスリランカの中央山脈の東側斜面に位置する紅茶の名産地でハイグロウンとミディアムグロウンに分類されます．<br>
 水色は明るい透明感のある琥珀色で爽快でキレのある香り(ウバフレーバーとも呼ばれるメンソール系の香り)と味わいのものが多く，南西モンスーンの影響で乾季になる夏がクオリティーシーズンです．<br>
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 UVA HIGHLANDS茶園 Pekoe クオリティーシーズン</p>
+    <img src="./tea/24_udapussellawa_delmar_FBOP.jpg" alt="2024 クオリティ UVA HIGHLANDS茶園 Pekoe" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">これぞクオリティーシーズンのウバというふんわりとした爽やかなメントールの香りですっきりとした味わいでとても美味しいです．<br>
+    ストレートもおすすめですが，少なめのミルクで爽やかなミルクティにしてもとても美味しいです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2023 HOLYROOD茶園 BOP</p>
+    <img src="./tea/23_dimbula_Holyrood_BOP.jpg" alt="2023 Holyrood茶園 BOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ウッディなコクと深みがある味わいがあり，どこか熟したフルーツの様な丸みのある風味を感じてとても美味しいです．<br>
+    1杯目はストレートティで楽しんで，茶葉を入れたままにして濃くなった2杯目をミルクティとして飲むのもおすすめです．</p>
+  </div> -->
+</div>
 
 ### UDA PUSSELLAWA 
 
