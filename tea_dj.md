@@ -138,6 +138,24 @@ MathJax.Hub.Config({
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 SEEYOK茶園 Muscatel DJ-83</p>
+    <img src="./tea/24_2nd_seeyok_dj_83_muscatel.jpg" alt="2024 SEEYOK茶園 Muscatel DJ-83" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">まるでマスカットをそのまま頬張っているようなフルーティかつフローラルな香りと味わいでとても美味しいです．<br>
+    まさにマスカテルフレーバーを最高に味わえる一杯です．<br>
+    ストレートはもちろん，アイスティにしてもとても美味しいです．<br>
+    私は2ndフラッシュのアイスティは避けていたのですが，これはむしろアイスティの方がフレッシュさを感じられて好きです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 SINGBRULI農園 China Musk DJ-93</p>
+    <img src="./tea/24_2nd_singbuli_china_musk_dj_93.jpeg" alt="2024 SINGBRULI農園 China Musk DJ-93" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">香ばしく甘い香りでしっかりとした飲み応えがあり，とても美味しいです．
+    バランスの良い間違いないものだと思います．</p>
+  </div> -->
+</div>
+
 <!-- - 2024 SINGBRULI農園 China Musk EX-50
 <p>
 <img src="./tea/24_2nd_singbuli_chinamusk_ex_50.jpeg">
