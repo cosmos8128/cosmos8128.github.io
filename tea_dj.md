@@ -126,7 +126,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 SINGBRULI農園 China Musk EX-50</p>
     <img src="./tea/24_2nd_singbuli_chinamusk_ex_50.jpeg" alt="2024 SINGBRULI農園 China Musk EX-50" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">香ばしくとても甘い良い香りでしっかりとした深い甘味でとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">香ばしくとても甘い良い香りとしっかりとした深い甘味でとても美味しいです．<br>
     2024年の2nd flushでは個人的に1番好みでした．</p>
   </div>
 
@@ -180,7 +180,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 THURBO農園 Autumn China Delight EX-31</p>
     <img src="./tea/24_Autumnal_Thurbo_AutumnChinaDelight_ex31.jpg" alt="2024 THURBO農園 Autumn China Delight EX-31" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">どこか桃のような甘い香りで穏やかな渋みと甘味でとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">どこか桃のような甘い香りと穏やかな渋みと甘味でとても美味しいです．<br>
     ケーキなどに合わせるのが良いと思います．</p>
   </div>
 
@@ -213,7 +213,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
     <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しいです．<br>
     ストレートはもちろん，ミルクティも美味しかったです．
     深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
   </div>
@@ -223,7 +223,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 HALMARI農園 TGFOP Cl</p>
     <img src="./tea/24_2nd_halmari_cl.jpg" alt="2024 HALMARI農園 TGFOP Cl" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">とてもフローラルな良い香りで濃密ながらキレのある風味でとても美味しかったです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">とてもフローラルな良い香りと濃密ながらキレのある風味でとても美味しいです．<br>
     ミルクティもアイスティも美味しいですが，私は華やかな香りを1番楽しめるホットのストレートティが好みでした．<br>
     ドイツ・東フリースラント式のアレンジティにしても美味しいらしいです．(Gclefさんが紹介していました．)<br>
     氷砂糖をカップに入れて，熱々の紅茶を注ぎ，最後にクリームを加えて混ぜずに味のグラデーションを楽しむ形です．
@@ -281,7 +281,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 PUTHARJHORA農園</p>
     <img src="./tea/24_2nd_putharjhora.jpg" alt="2024 PUTHARJHORA農園" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">どこかダージリンを思わせる様なフローラルな気品ある花の優しい香りでどこかアッサムを思わせる様な重みのある飲み心地でとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">どこかダージリンを思わせる様なフローラルな気品ある花の優しい香りとどこかアッサムを思わせる様な重みのある飲み心地でとても美味しいです．<br>
     ストレートでゆっくり飲むのがおすすめです．
     ゆっくり飲んでいると果実の様なフルーティな香りを感じられてとても美味しいです．<br>
     ドアーズはダージリンとアッサムの間に位置しますが，本当にどちらの良さも感じられる様な紅茶で面白いです．
@@ -372,7 +372,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 UVA HIGHLANDS茶園 Pekoe クオリティーシーズン</p>
     <img src="./tea/24_udapussellawa_delmar_FBOP.jpg" alt="2024 クオリティ UVA HIGHLANDS茶園 Pekoe" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">これぞクオリティーシーズンのウバというふんわりとした爽やかなメントールの香りですっきりとした味わいでとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">これぞクオリティーシーズンのウバというふんわりとした爽やかなメントールの香りとすっきりとした味わいでとても美味しいです．<br>
     ストレートもおすすめですが，少なめのミルクで爽やかなミルクティにしてもとても美味しいです．</p>
   </div>
 
@@ -393,7 +393,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 Delmar茶園 FBOP</p>
     <img src="./tea/24_udapussellawa_delmar_FBOP.jpg" alt="2024 Delmar茶園 FBOP" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">少しスパイシーなナツメグのような少し甘いような風変わりな香りで渋みの少ない味わいでとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">少しスパイシーなナツメグの様な少し甘い様な風変わりな香りと渋みの少ない味わいでとても美味しいです．<br>
     ストレートでゆったりと飲むのがおすすめです．冷めてもまた香りが際立って面白いです．</p>
   </div>
 
@@ -414,7 +414,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 NAYAPANA茶園 OP1</p>
     <img src="./tea/24_sabaragamuwa_コロンナ_BOP1.jpg" alt="2024 NAYAPANA茶園 OP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">フルーティで穏やかな香りで杏のような甘みをある味わいでとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">フルーティで穏やかな香りと杏のような甘みをある味わいでとても美味しいです．<br>
     80度くらいの少し低めの温度のお湯で淹れると甘味が増してとても美味しいです．<br>
     ナヤパーヤ茶園はコロンボ・オーディションでもトッププライスを記録し続ける有名な茶園です．</p>
   </div>
@@ -510,7 +510,7 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 新緑</p>
     <img src="./tea/25_1st_nepal_junchiyabari_himalayanwhite_新緑.jpg" alt="2025 Jun Chiyabari茶園 Himalayan White 新緑" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りでまろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">若々しいフレッシュな香りとまろやかな甘さの中にどこかキレのある味わいでとても美味しいです．<br>
     水色は薄いのですが，満足感が高く，ストレートでゆっくり飲むのが格別です．<br>
     また，低い温度で入れるとまろやかな甘みをより感じられ，高い温度で入れると香ばしさとキレをより感じられ，入れ方によって味わいが色々楽しめるのも面白いです．</p>
   </div>
@@ -518,13 +518,31 @@ MathJax.Hub.Config({
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 可憐</p>
     <img src="./tea/25_1st_nepal_jinchiyabari_himalayanwhite_可憐.jpg" alt="2025 JUN CHIYABARI茶園 Himalayan White 可憐" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">とても華やかな香りで透明感のある柔らかな甘味でとても美味しいです．<br>
+    <p style="margin: 10px 0 0; font-size: 14px;">とても華やかな香りと透明感のある柔らかな甘味でとても美味しいです．<br>
     フレッシュな爽快さも感じられて渋みも少ないので複数杯飲むのもおすすめです．<br>
     一芯二葉さんの言葉を借りると，少量の熱湯をさっと注いでから渋みが出る前に速やかに低温のお湯を加えることで，熱湯からはキレのある爽快な香りが，低温のお湯からはまろやかな甘味が引き出せるようです．</p>
   </div>
 </div>
 
 #### 2nd Flush
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 Jun Chiyabari茶園 Himalayan Bouquet 黄金桃</p>
+    <img src="./tea/25_2st_nepal_jinchiyabari_himalayanbouquet_黄金桃.jpg" alt="2025 Jun Chiyabari茶園 Himalayan Bouquet 黄金桃" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">まるで桃を頬張ったような華やかでジューシーな香りと味わいでとても美味しいです．<br>
+    ストレートも美味しいですが，個人的にはアイスティにするとより果実味を感じられて好きです．</p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 可憐</p>
+    <img src="./tea/25_1st_nepal_jinchiyabari_himalayanwhite_可憐.jpg" alt="2025 JUN CHIYABARI茶園 Himalayan White 可憐" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">とても華やかな香りと透明感のある柔らかな甘味でとても美味しいです．<br>
+    フレッシュな爽快さも感じられて渋みも少ないので複数杯飲むのもおすすめです．<br>
+    一芯二葉さんの言葉を借りると，少量の熱湯をさっと注いでから渋みが出る前に速やかに低温のお湯を加えることで，熱湯からはキレのある爽快な香りが，低温のお湯からはまろやかな甘味が引き出せるようです．</p>
+  </div> -->
+</div>
+
 
 ### NILGIRI
 
@@ -559,6 +577,29 @@ MathJax.Hub.Config({
 ホットはもちろん，アイスティも美味しいです．
 また，レモンティもとても美味しいです．
 </p> -->
+
+### 和紅茶
+
+#### 1st Flush
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 宮﨑茶房 香駿</p>
+    <img src="./tea/25_1st_香駿_宮﨑茶房.jpg" alt="2025 宮﨑茶房 香駿" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">まるでメロンの様な甘い果実の香りと渋みが少ない甘い味わいでとても美味しいです．<br>
+    ストレートが美味しいですが，アイスティにしても果実味をより感じられて美味しいです．
+    </p>
+  </div>
+
+  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
+    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
+    ストレートはもちろん，ミルクティも美味しかったです．
+    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
+  </div> -->
+</div>
+
 
 ---
 
