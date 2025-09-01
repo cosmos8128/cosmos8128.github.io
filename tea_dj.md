@@ -42,34 +42,34 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 PHUGURI農園 Clonal Tips DJ-16</p>
+    <img src="./tea/25_1st_Phuguri_Clonal_Tips_dj_16.jpg" alt="2025 PHUGURI農園 Clonal Tips DJ-16" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">とても爽やかな香りとグリニッシュでキレのある味わいでとても美味しいです．<br>
+    どこか柑橘系の様なキリッとした面もあり，ストレートも良いですが，アイスティにするとより上品ですっきりとした味わいを感じられて美味しいです．</p>
+  </div>
+
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 ARYA農園 Diamond EX-28</p>
     <img src="./tea/24_1st_arya_ex_28_diamond.jpg" alt="2024 ARYA農園 Diamond EX-28" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">華やかなやさしい香りですっきりとしていて渋みが少なく，透明感のあるまろやかな味わいでホットはもちろん，アイスティにするととても美味しいです．<br>
     2024年の1st flushでは個人的に1番好みでした．</p>
   </div>
+</div>
 
-  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+    <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2024 THURBO農園 Clonal DJ-12</p>
     <img src="./tea/24_1st_thurbo_clonal_dj_12.jpeg" alt="2024 THURBO農園 Clonal DJ-12" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">ホットはもちろんですが，アイスティにすると淡い甘味が良くでてとても美味しいです．
     甘味だけでなく，しっかりした部分もあり，バランスの良い味だと思います．</p>
   </div>
-</div>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
     <p style="margin: 0 0 10px; font-size: 14px;">2023 RISHEEHAT農園 China EX-12</p>
     <img src="./tea/23_1st_risheehat_ex_12.jpeg" alt="2023 RISHEEHAT農園 China EX-12" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">華やかな温かみを感じる香りで優しい甘みがあり，とても美味しいです．<br>
     ホットでもアイスティでも間違いなく美味しく，私が紅茶にハマったきっかけの1杯です．</p>
   </div>
-
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 THURBO農園 Clonal DJ-12</p>
-    <img src="./tea/24_1st_thurbo_clonal_dj_12.jpeg" alt="2024 THURBO農園 Clonal DJ-12" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ホットはもちろんですが，アイスティにすると淡い甘味が良くでてとても美味しいです．
-甘味だけでなく，しっかりした部分もあり，バランスの良い味だと思います．</p>
-  </div> -->
 </div>
 
 
