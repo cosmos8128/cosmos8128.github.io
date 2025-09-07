@@ -131,7 +131,28 @@ and descent theory](http://homepage.sns.it/vistoli/descent.pdf)
 
 - 2025/01　「層量子化について」
 
+層量子化の話をききました．<br>
+D加群と層(それぞれの導来圏)に良い関係(Riemann-Hilbert対応)があり，D加群側の量子化を層の方に持っていこうという流れで細かいところは正直理解が浅いですが，とても面白かったです．
+
 - 2025/02　「Condensed mathematics」
+
+Condensed mathの基礎の話をききました．<br>
+初歩的なprofinite setの定義や例から始まり，導入はやさしくてききやすかったです．(理論は．．．)
+
+- 2025/05　「Iterated Integral and Higher Holonomy with Simplicial Method」
+
+反復積分と高次ホロノミー表現の話をききました．<br>
+反復積分でホモトピーチックな情報が代数チックな情報にうつされていてとても興味がわきました．
+
+- 2025/07 「Representability theorem」
+
+Discrete fibrationとGrothendieck fibrationの表現定理についてホモトピー論の目線から考察したという話をしました．
+
+- 2025/08　「近隣空間のパラコンパクト性」
+
+Convenient categoryという目線でnearness spaceを考察するという話をききました．<br>
+Convenient categoryということでHomの構造に興味がわきました．
+
 
 ---
 

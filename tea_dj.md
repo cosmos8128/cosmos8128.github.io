@@ -528,19 +528,19 @@ MathJax.Hub.Config({
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2025 Jun Chiyabari茶園 Himalayan Bouquet 黄金桃</p>
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan Bouquet 黄金桃</p>
     <img src="./tea/25_2st_nepal_jinchiyabari_himalayanbouquet_黄金桃.jpg" alt="2025 Jun Chiyabari茶園 Himalayan Bouquet 黄金桃" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p style="margin: 10px 0 0; font-size: 14px;">まるで桃を頬張ったような華やかでジューシーな香りと味わいでとても美味しいです．<br>
     ストレートも美味しいですが，個人的にはアイスティにするとより果実味を感じられて好きです．</p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 Himalayan White 可憐</p>
-    <img src="./tea/25_1st_nepal_jinchiyabari_himalayanwhite_可憐.jpg" alt="2025 JUN CHIYABARI茶園 Himalayan White 可憐" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">とても華やかな香りと透明感のある柔らかな甘味でとても美味しいです．<br>
-    フレッシュな爽快さも感じられて渋みも少ないので複数杯飲むのもおすすめです．<br>
-    一芯二葉さんの言葉を借りると，少量の熱湯をさっと注いでから渋みが出る前に速やかに低温のお湯を加えることで，熱湯からはキレのある爽快な香りが，低温のお湯からはまろやかな甘味が引き出せるようです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 JUN CHIYABARI茶園 HRHT Summer Muscatel</p>
+    <img src="./tea/25_2st_nepal_jinchiyabari_HRHT_summer_muscatel.jpg" alt="2025 JUN CHIYABARI茶園 HRHT Summer Muscatel" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">花の様な優しい甘い香りとマスカテルフレーバーを感じる味わいでとても美味しいです．<br>
+    マスカテルフレーバーですが，林檎の様な果実感も感じます．<br>
+    ストレートで飲むと香り高くて最高ですし，アイスティで飲むと果実感の余韻が格別です．</p>
+  </div>
 </div>
 
 
@@ -591,13 +591,13 @@ MathJax.Hub.Config({
     </p>
   </div>
 
-  <!-- <div style="width: 250px; text-align: center; box-sizing: border-box;">
-    <p style="margin: 0 0 10px; font-size: 14px;">2024 DOOMNI農園 TGFOP1</p>
-    <img src="./tea/24_2nd_doomni.jpg" alt="2024 DOOMNI農園 TGFOP1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <p style="margin: 10px 0 0; font-size: 14px;">ハーブの様な少し清涼感のある良い香りで深く厚みがあり，心地よい渋みを感じられてとても美味しかったです．<br>
-    ストレートはもちろん，ミルクティも美味しかったです．
-    深く厚みがあるので少し多めのお湯と茶葉で淹れて1杯目はストレートで楽しみ，2杯目や3杯目にミルクティや砂糖を入れて楽しむのが個人的に好きです．</p>
-  </div> -->
+  <div style="width: 250px; text-align: center; box-sizing: border-box;">
+    <p style="margin: 0 0 10px; font-size: 14px;">2025 さやまかおり 坂本園</p>
+    <img src="./tea/25_1st_さやまかおり_坂本園.jpg" alt="2025 さやまかおり 坂本園" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p style="margin: 10px 0 0; font-size: 14px;">どこか中国茶や台湾茶の様なジャスミン系統のグリニッシュな香りと味わいでとても美味しいです．<br>
+    グリニッシュで渋みはありますが，嫌な渋みはなくとても飲みやすいです．<br>
+    個人的にはアイスティか少し低い温度でいれたストレートが好みです．</p>
+  </div>
 </div>
 
 
