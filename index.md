@@ -39,7 +39,7 @@ title-heading: false
 #### <a href="/tea_dj">紅茶紹介</a>
 美味しい紅茶を紹介します．
 
-#### <a href="/alcohol.md">お酒紹介</a>
+#### <a href="/alcohol">お酒紹介</a>
 美味しいお酒を紹介します．
 
 #### <span style="font-size:11pt;">連絡先</span>
