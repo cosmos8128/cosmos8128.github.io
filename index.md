@@ -39,6 +39,9 @@ title-heading: false
 #### <a href="/tea_dj">紅茶紹介</a>
 美味しい紅茶を紹介します．
 
+#### <a href="/alcohol.md">お酒紹介</a>
+美味しいお酒を紹介します．
+
 #### <span style="font-size:11pt;">連絡先</span>
 - Twitter: [@cosmos8128](https://twitter.com/@cosmos8128)
 - Twitter: [@cosmos9651](https://twitter.com/@cosmos9651)
