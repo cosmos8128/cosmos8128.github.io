@@ -16,7 +16,6 @@ MathJax.Hub.Config({
 美味しいお酒を紹介してます。
 
 
-
 ---
 #### カクテル
 [Grasshopper](/posts/20190915)
