@@ -18,7 +18,7 @@ MathJax.Hub.Config({
 
 ---
 #### カクテル
-[Grasshopper](/posts/20190915)
+[Grasshopper](./alcohol/grasshopper.md)
 
 
 ---
