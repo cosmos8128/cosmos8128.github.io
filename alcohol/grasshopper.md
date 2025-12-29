@@ -46,10 +46,50 @@ Grasshopper発祥の地<br>
 </li>
 </p>
 
+<p>
+グラスホッパーは1918年にアメリカ合衆国ルイジアナ州ニューオリンズにあるTujague's Restaurantでうまれたようです．<br>
+当時はプース・カフェ・スタイルで楽しまれていたようです．
+</p>
+
+---
+
+<p>
+私がバーに行き始めて間もない頃にBar Thistleで吉田さんのバジルグラスホッパーを飲んでその美味しさに驚き，好きになったチョコミントの生みの親のデザートカクテルです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_thistle.jpg">
+
+<p>
+Bar B&Fで伊藤さんとグラスホッパーについて色々話して作っていただいたのも良い思い出です．(2025年末からはBar Amberにいらっしゃいます．)<br>
+伊藤さんはシェイクをあえて荒くして氷を越さずに残し，アブサンを加えるのが良いとおっしゃっていました．<br>
+実際に飲むとアブサンで深さが増し，素晴らしかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_BF.jpg">
+
+<p>
+Bar K9の後藤さんのグラスホッパーは生クリームをクリーマーで泡立てることで滑らかさが口当たりをとても良くしていて絶品です．
+</p>
+
+<img src="../画像/cocktail/grasshopper_k9.jpeg">
+
+<p>
+Bar Kreisのグラスホッパーは生クリームが多過ぎず，繊細なミントの香りをよく感じられて美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_kreis.jpeg">
+
+<p>
+Bar K家のグラスホッパーは色鮮やかですっきりと飲めて美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_kya.jpeg">
+
+
 ---
 
 参考文献<br>
-https://ameblo.jp/kayama0927/entry-12592278144.html
+[鹿山さんのブログ](https://ameblo.jp/kayama0927/entry-12592278144.html)
 
 
 **[一覧に戻る](/alcohol)**
