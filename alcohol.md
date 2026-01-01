@@ -18,16 +18,11 @@ MathJax.Hub.Config({
 
 ---
 #### カクテル
-<li>
+
 
 [Grasshopper](./alcohol/grasshopper.md)
 
-</li>
-<li>
-
 [Last Word](./alcohol/lastword.md)
-
-</li>
 
 
 ---
