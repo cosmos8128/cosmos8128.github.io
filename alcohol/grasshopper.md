@@ -24,13 +24,13 @@ Grasshopper発祥の地<br>
 ¾ oz. green créme de menthe
 </li>
 <li>
-¾ oz.white Crème de Cacao
+¾ oz. white Crème de Cacao
 </li>
 <li>
-¾ oz dark créme de cacao
+¾ oz. dark créme de cacao
 </li>
 <li>
-¾ oz white créme de menthe
+¾ oz. white créme de menthe
 </li>
 <li>
 ½ oz. brandy
