@@ -24,10 +24,11 @@ MathJax.Hub.Config({
 
 [Last Word](./alcohol/lastword.md)
 
+[和香るジントニック](./alcohol/和香るジントニック.md)
 
----
+<!-- ---
 #### ストレートでいただくお酒
-
+ -->
 
 
 ---
