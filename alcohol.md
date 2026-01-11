@@ -22,6 +22,8 @@ MathJax.Hub.Config({
 
 [Grasshopper](./alcohol/grasshopper.md)
 
+[Gintonic](./alcohol/gintonic.md)
+
 [Last Word](./alcohol/lastword.md)
 
 [和香るジントニック](./alcohol/和香るジントニック.md)
