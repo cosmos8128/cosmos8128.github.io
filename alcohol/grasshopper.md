@@ -81,6 +81,12 @@ Bar K9の後藤さんのグラスホッパーは生クリームをクリーマ�
 <img src="../画像/cocktail/grasshopper_k9.jpeg">
 
 <p>
+Bar Barnsのグラスホッパーはミントリキュールを2種類ブレンドされており，すっきりとしていてかつ生クリームの深さを感じられてとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_barns.jpeg">
+
+<p>
 Bar Kreisのグラスホッパーは生クリームが多過ぎず，繊細なミントの香りをよく感じられて美味しかったです．
 </p>
 

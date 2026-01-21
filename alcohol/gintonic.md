@@ -60,6 +60,13 @@ Bar Barnsでは枡のジントニックをいただきました．<br>
 <img src="../画像/cocktail/gintonic_barns.jpeg">
 
 <p>
+Bar ThistleでBar ChamのByungjin Limさんのゲストシフトでは秋を感じるジントニックをいただきました．<br>
+スパイスが効いていて，無花果の葉からとても良い余韻がうまれており最高に美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_cham.jpeg">
+
+<p>
 Liquid factoryではSilent Poolの珍しいver.のジントニックをいただきました．<br>
 ここはシェイクなども美味しいですが柑橘が効いたジントニックは格別でした．
 </p>
