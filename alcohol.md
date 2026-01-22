@@ -19,16 +19,19 @@ MathJax.Hub.Config({
 ---
 #### カクテル
 
+星が付いているカクテルは複数回自分で作り，ある程度ひとに振る舞えるかなと思えるものなので，私に会う際は少し前に言っておいてくれれば素材があれば振る舞えるかもしれません．
 
-[Grasshopper](./alcohol/grasshopper.md)
+[⭐️Gintonic](./alcohol/gintonic.md)
 
-[Gintonic](./alcohol/gintonic.md)
+[⭐️Grasshopper](./alcohol/grasshopper.md)
 
-[Last Word](./alcohol/lastword.md)
+[Improved Whiskey Cocktail](./alcohol/improved_whiskey_cocktail.md)
 
-[白茶ジントニック](./alcohol/白茶ジントニック.md)
+[⭐️Last Word](./alcohol/lastword.md)
 
-[和香るジントニック](./alcohol/和香るジントニック.md)
+[⭐️白茶ジントニック](./alcohol/白茶ジントニック.md)
+
+[⭐️和香るジントニック](./alcohol/和香るジントニック.md)
 
 <!-- ---
 #### ストレートでいただくお酒
