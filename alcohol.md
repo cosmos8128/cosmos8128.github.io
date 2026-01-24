@@ -21,6 +21,8 @@ MathJax.Hub.Config({
 
 星が付いているカクテルは複数回自分で作り，ある程度ひとに振る舞えるかなと思えるものなので，私に会う際は少し前に言っておいてくれれば素材があれば振る舞えるかもしれません．
 
+[Element](./alcohol/element.md)
+
 [⭐️Fresh Herb Gimlet](./alcohol/fresh_herb_gimlet.md)
 
 [⭐️Gintonic](./alcohol/gintonic.md)
@@ -30,6 +32,8 @@ MathJax.Hub.Config({
 [Improved Whiskey Cocktail](./alcohol/improved_whiskey_cocktail.md)
 
 [⭐️Last Word](./alcohol/lastword.md)
+
+[飲む香水](./alcohol/飲む香水.md)
 
 [⭐️白茶ジントニック](./alcohol/白茶ジントニック.md)
 
