@@ -93,6 +93,12 @@ Bar Kreisのグラスホッパーは生クリームが多過ぎず，繊細な�
 <img src="../画像/cocktail/grasshopper_kreis.jpeg">
 
 <p>
+Bar Chordの川合さんのグラスホッパーはシンプルながらよくシェイクされていて，重たすぎずすっきりと飲めて美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_chord.jpeg">
+
+<p>
 Bar K家のグラスホッパーは色鮮やかですっきりと飲めて美味しかったです．
 </p>
 

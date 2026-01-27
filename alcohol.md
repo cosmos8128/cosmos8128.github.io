@@ -33,6 +33,10 @@ MathJax.Hub.Config({
 
 [⭐️Last Word](./alcohol/lastword.md)
 
+[Stay Gold](./alcohol/staygold.md)
+
+[煎茶エスプレッソマティーニ](./alcohol/煎茶エスプレッソマティーニ.md)
+
 [飲む香水](./alcohol/飲む香水.md)
 
 [⭐️白茶ジントニック](./alcohol/白茶ジントニック.md)
