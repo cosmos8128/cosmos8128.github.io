@@ -23,6 +23,8 @@ MathJax.Hub.Config({
 
 [Element](./alcohol/element.md)
 
+[Falling Star](./alcohol/falling_star.md)
+
 [⭐️Fresh Herb Gimlet](./alcohol/fresh_herb_gimlet.md)
 
 [⭐️Gintonic](./alcohol/gintonic.md)
@@ -34,6 +36,8 @@ MathJax.Hub.Config({
 [⭐️Last Word](./alcohol/lastword.md)
 
 [Stay Gold](./alcohol/staygold.md)
+
+[さくらさくら](./alcohol/さくらさくら.md)
 
 [煎茶エスプレッソマティーニ](./alcohol/煎茶エスプレッソマティーニ.md)
 
