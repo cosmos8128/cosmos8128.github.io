@@ -21,6 +21,8 @@ MathJax.Hub.Config({
 
 星が付いているカクテルは複数回自分で作り，ある程度ひとに振る舞えるかなと思えるものなので，私に会う際は少し前に言っておいてくれれば素材があれば振る舞えるかもしれません．
 
+[Cacao Fizz](./alcohol/cacaofiz.md)
+
 [Element](./alcohol/element.md)
 
 [Falling Star](./alcohol/falling_star.md)
