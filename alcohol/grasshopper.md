@@ -60,6 +60,12 @@ Grasshopper発祥の地<br>
 <img src="../画像/cocktail/grasshopper_thistle.jpg">
 
 <p>
+Bar Thistleの吉田さんのシンプルなグラスホッパーももちろん絶品です．
+</p>
+
+<img src="../画像/cocktail/grasshopper_simple_thistle.jpeg">
+
+<p>
 Bar B&Fで伊藤さんとグラスホッパーについて色々話して作っていただいたのも良い思い出です．(2025年末からはBar Amberにいらっしゃいます．)<br>
 伊藤さんはシェイクをあえて荒くして氷を越さずに残し，アブサンを加えるのが良いとおっしゃっていました．<br>
 実際に飲むとアブサンで深さが増し，素晴らしかったです．
@@ -73,6 +79,12 @@ Bar Landscape.の松尾さんのグラスホッパーは伊勢屋酒造のメン
 </p>
 
 <img src="../画像/cocktail/grasshopper_landscape.jpeg">
+
+<p>
+Jade labの藤井さんのグラスホッパーは小さい氷を少しだけ入れてよくシェイクすることで口当たりがとても良くて絶品でした．
+</p>
+
+<img src="../画像/cocktail/grasshopper_jadelab.jpeg">
 
 <p>
 Bar K9の後藤さんのグラスホッパーは生クリームをクリーマーで泡立てることで滑らかさが口当たりをとても良くしていて絶品です．
@@ -105,6 +117,12 @@ Bar Reservaの吉田さんのグラスホッパーは今回アイスクリーム
 </p>
 
 <img src="../画像/cocktail/grasshopper_kei.jpeg">
+
+<p>
+Main Bar Coatの飯島さんのグラスホッパーはクラッシュアイスでよく冷やされたグラスにちょうどよくシェイクされた口当たりの良いもので美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_coat.jpeg">
 
 <p>
 Bar Kreisのグラスホッパーは生クリームが多過ぎず，繊細なミントの香りをよく感じられて美味しかったです．
