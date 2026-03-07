@@ -80,6 +80,19 @@ Liquid factoryではSilent Poolの珍しいver.のジントニックをいただ
 <img src="../画像/cocktail/gintonic_liquid_factory.jpg">
 
 <p>
+Main Bar Coatの飯島さんに金柑のジントニックをいただきました．<br>
+贅沢に金柑を使われていてとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_coat.jpeg">
+
+<p>
+Yoshino barでは爽やかな梨のジントニックをいただきました．
+</p>
+
+<img src="../画像/cocktail/gintonic_yoshino.jpeg">
+
+<p>
 House of KI NO BIでは抹茶のジントニックをいただきました．<br>
 深い抹茶との相性は抜群で美味しいです．<br>
 2階ではジンに関することを色々と知ることができてとても面白かったです．
