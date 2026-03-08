@@ -37,7 +37,8 @@ Bar B&Fで伊藤さんにつくっていただいたカクテルです．<br>
 <p>
 このカクテルは1990年にCalifornia州のTownhouseのPaul Harrington氏によってつくられました．<br>
 Paul Harrington氏は友人のMatt Jasmin氏に今までつくったことのないものを何かつくってくれと頼まれたことがきっかけで生まれたカクテルです．<br>
-名前の由来は上記のJasmin氏なのですが，Paul Harrington氏はゆう人の綴りにeがないことに数年後に気付き，その時にはもうすでにJasmineという名前で世界中に広まっていてそのままJasmineというカクテルが有名になったようです．
+名前の由来は上記のJasmin氏なのですが，Paul Harrington氏は友人の綴りにeがないことに数年後に気付きました．
+しかし，その時にはもうすでにJasmineという名前で世界中に広まっていてそのままJasmineというカクテルが有名になったようです．
 </p>
 
 
