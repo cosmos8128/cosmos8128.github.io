@@ -33,6 +33,8 @@ MathJax.Hub.Config({
 
 [⭐️Grasshopper](./alcohol/grasshopper.md)
 
+[Gunshop Fizz](./alcohol/gunshopfizz.md)
+
 [Improved Whiskey Cocktail](./alcohol/improved_whiskey_cocktail.md)
 
 [⭐️Jasmine](./alcohol/jasmine.md)
