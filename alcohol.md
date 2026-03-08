@@ -35,6 +35,8 @@ MathJax.Hub.Config({
 
 [Improved Whiskey Cocktail](./alcohol/improved_whiskey_cocktail.md)
 
+[⭐️Jasmine](./alcohol/jasmine.md)
+
 [⭐️Last Word](./alcohol/lastword.md)
 
 [Stay Gold](./alcohol/staygold.md)
