@@ -73,6 +73,13 @@ Bar Thistleの吉田さんのジントニックはジンをブレンドされて
 <img src="../画像/cocktail/gintonic_thistle.jpeg">
 
 <p>
+Bar Crossingの村上さんにはふきのとうを漬け込んだジントニックを作ってもらいました．<br>
+しっかりふきのとうを感じてとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_crossing.jpg">
+
+<p>
 Liquid factoryではSilent Poolの珍しいver.のジントニックをいただきました．<br>
 ここはシェイクなども美味しいですが柑橘が効いたジントニックは格別でした．
 </p>
