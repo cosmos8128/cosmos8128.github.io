@@ -43,6 +43,8 @@ MathJax.Hub.Config({
 
 [⭐️Last Word](./alcohol/lastword.md)
 
+[Manhattan](./alcohol/manhattan.md)
+
 [Old Fashiond Tea Highboll](./alcohol/oldfashiond_teahighboll.md)
 
 [Stay Gold](./alcohol/staygold.md)
