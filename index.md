@@ -19,44 +19,30 @@ title-heading: false
 
 ## 論文
 
-<li>
-Manifolds and fat smooth CW complexes<br>
-Yuki Kojima. Manifolds and fat smooth CW complexes. Master’s thesis, Kyushu University,
-2023.
-<li>
+- Manifolds and fat smooth CW complexes<br>
+Yuki Kojima. Manifolds and fat smooth CW complexes. Master’s thesis, Kyushu University, 2023.
 
-[A closed manifolds is a fat CW complex](https://arxiv.org/abs/2309.07379)<br>
+- [A closed manifolds is a fat CW complex](https://arxiv.org/abs/2309.07379)<br>
 Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. 2025. arXiv preprint, https://arxiv.org/abs/2309.07379
-</li>
 
 ## 講演
-<li>
-東京大学ミニトポロジーセミナー<br>
+
+- 東京大学ミニトポロジーセミナー<br>
 タイトル：Brown Representability Theorem
-</li>
-<li>
 
-[九州大学トポロジー金曜セミナー](https://www.math.kyushu-u.ac.jp/activities/2476/)<br>
+- [九州大学トポロジー金曜セミナー](https://www.math.kyushu-u.ac.jp/activities/2476/)<br>
 タイトル：Reflexivity and a fat smooth CW complex
-</li>
-<li>
 
-[日本数学会九州支部例会](https://www2.math.kyushu-u.ac.jp/~kyushushibu/PDF/148_spring_meeting_program.pdf)<br>
+- [日本数学会九州支部例会](https://www2.math.kyushu-u.ac.jp/~kyushushibu/PDF/148_spring_meeting_program.pdf)<br>
 タイトル：Reflexivity and a fat smooth CW complex
-</li>
-<li>
 
-[Building-up Differential Homotopy Theory 2026](https://www2.math.kyushu-u.ac.jp/~iwase/BDHT5/Home.html)<br>
+- [Building-up Differential Homotopy Theory 2026](https://www2.math.kyushu-u.ac.jp/~iwase/BDHT5/Home.html)<br>
 タイトル：A closed manifolds is a fat CW complex
-</li>
 
 ## 表彰
 
-<li>
-
-[立命館大学第21回(2020年度)数物会賞](https://www.subutsu.com/?page_id=10)<br>
+- [立命館大学第21回(2020年度)数物会賞](https://www.subutsu.com/?page_id=10)<br>
 「ホモトピー論」　(福本・野澤・多羅間 研究室)
-</li>
 
 ## サイトマップ
 
