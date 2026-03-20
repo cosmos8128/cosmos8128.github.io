@@ -28,7 +28,7 @@ Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. 2025. arXiv pr
 ## 講演
 
 - 東京大学ミニトポロジーセミナー<br>
-タイトル：Brown Representability Theorem
+タイトル：Ω-spectrum and cohomology theory
 
 - [九州大学トポロジー金曜セミナー](https://www.math.kyushu-u.ac.jp/activities/2476/)<br>
 タイトル：Reflexivity and a fat smooth CW complex
@@ -46,25 +46,25 @@ Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. 2025. arXiv pr
 
 ## サイトマップ
 
-#### <a href="/notes">まとめノート</a>
+### <a href="/notes">まとめノート</a>
 書いた記事やノートをまとめてあります．
 
-#### <a href="/adjoint">随伴図鑑</a>
+### <a href="/adjoint">随伴図鑑</a>
 随伴関手をまとめてあります．
 
-#### <a href="/posts">文献紹介</a>
+### <a href="/posts">文献紹介</a>
 様々な分野の文献を紹介します．
 
-#### <a href="/omnibus">オムニバス形式セミナーの記録</a>
+### <a href="/omnibus">オムニバス形式セミナーの記録</a>
 主催しているオムニバス形式セミナーがまとめてあります．
 
-#### <a href="/links">過去の講演記録</a>
+### <a href="/links">過去の講演記録</a>
 過去の講演資料がまとめてあります．
 
-#### <a href="/errata">誤植表</a>
+### <a href="/errata">誤植表</a>
 誤植表がまとめてあります．
 
-#### <a href="/tea_dj">紅茶紹介</a>
+### <a href="/tea_dj">紅茶紹介</a>
 美味しい紅茶を紹介します．
 
 #### <a href="/alcohol">お酒紹介</a>
