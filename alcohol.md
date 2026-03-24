@@ -47,6 +47,8 @@ MathJax.Hub.Config({
 
 [Old Fashiond Tea Highboll](./alcohol/oldfashiond_teahighboll.md)
 
+[⭐️Peacock Tonic](./alcohol/peacocktonic.md)
+
 [Stay Gold](./alcohol/staygold.md)
 
 [さくらさくら](./alcohol/さくらさくら.md)
