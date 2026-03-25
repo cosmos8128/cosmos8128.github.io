@@ -73,6 +73,12 @@ Bar Thistleの吉田さんのジントニックはジンをブレンドされて
 <img src="../画像/cocktail/gintonic_thistle.jpeg">
 
 <p>
+Bar Thistleの吉田さんの抹茶ジントニックはパッションフルーツのリキュールで華やかで後味にすっきりと抹茶を感じてとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_thistle_maccha.jpeg">
+
+<p>
 Tigratoの高宮さんには季節限定で八女茶のジントニックを作っていただきました．<br>
 ストレートに八女茶を感じてとても美味しかったです．
 </p>
