@@ -23,6 +23,8 @@ MathJax.Hub.Config({
 
 [Cacao Fizz](./alcohol/cacaofiz.md)
 
+[Drunken Grandma's Apple Pie](./alcohol/drunken_grandmas_apple_pie.md)
+
 [Element](./alcohol/element.md)
 
 [Falling Star](./alcohol/falling_star.md)
@@ -50,6 +52,8 @@ MathJax.Hub.Config({
 [⭐️Peacock Tonic](./alcohol/peacocktonic.md)
 
 [Stay Gold](./alcohol/staygold.md)
+
+[Tomato Tree](./alcohol/tomato_tree.md)
 
 [さくらさくら](./alcohol/さくらさくら.md)
 
