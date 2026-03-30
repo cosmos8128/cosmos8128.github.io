@@ -45,6 +45,28 @@ Bar Juniperでは3人で20杯ほどジントニックを飲み比べる会をさ
 <img src="../画像/cocktail/gintonic_juniper.jpeg">
 
 <p>
+Bar Amberでは伊藤さんに梅のジントニックをいただきました．<br>
+すっきりとした梅を感じ，梅の花で風情を感じて素晴らしかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_amber.jpeg">
+
+<p>
+THE HISAKAでは大石さんに7周年のみかんのジントニックをいただきました．<br>
+柑橘系のジンは多いですが，みかんのものはあまりみたことがなくとても美味しかったです．<br>
+ストレートでもサービスでいただいて感謝です！
+</p>
+
+<img src="../画像/cocktail/gintonic_hisaka_orenge.jpeg">
+
+<p>
+THE HISAKAで今回は大石さんに7周年のアブサンとチャイのジントニックをいただきました．<br>
+私は体験したことない香りと味でとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_hisaka_abtyai.jpeg">
+
+<p>
 Mixology Salonでは煎茶ジントニックをいただきました．<br>
 煎茶の良さを最大限に活かしておりとても美味しいです．<br>
 何度行っても一杯目はこれが安定かなと思います．

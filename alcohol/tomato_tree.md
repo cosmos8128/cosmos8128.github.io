@@ -18,7 +18,7 @@ MathJax.Hub.Config({
 <img src="../画像/cocktail/tomato_tree.jpeg">
 
 <p>
-The SG Clubのsipでいただいた素晴らしいです．
+The SG Clubのsipでいただいた素晴らしいカクテルです．
 
 <li>
 roku gin
