@@ -59,6 +59,8 @@ MathJax.Hub.Config({
 
 [煎茶エスプレッソマティーニ](./alcohol/煎茶エスプレッソマティーニ.md)
 
+[徳川公茶会](./alcohol/徳川公茶会.md)
+
 [飲む香水](./alcohol/飲む香水.md)
 
 [⭐️白茶ジントニック](./alcohol/白茶ジントニック.md)
