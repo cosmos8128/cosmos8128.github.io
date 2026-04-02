@@ -21,6 +21,8 @@ MathJax.Hub.Config({
 
 星が付いているカクテルは複数回自分で作り，ある程度ひとに振る舞えるかなと思えるものなので，私に会う際は少し前に言っておいてくれれば素材があれば振る舞えるかもしれません．
 
+[Beuser & Angus Special](./alcohol/beuser_and_angus_special.md)
+
 [Cacao Fizz](./alcohol/cacaofiz.md)
 
 [Drunken Grandma's Apple Pie](./alcohol/drunken_grandmas_apple_pie.md)
