@@ -59,6 +59,8 @@ MathJax.Hub.Config({
 
 [Tomato Tree](./alcohol/tomato_tree.md)
 
+[Yeah, Surely...](./alcohol/yeah_surely.md)
+
 [花粉症対策ラッシー](./alcohol/花粉症対策ラッシー.md)
 
 [さくらさくら](./alcohol/さくらさくら.md)
