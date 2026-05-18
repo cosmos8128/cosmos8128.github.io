@@ -1,0 +1,68 @@
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  },
+  CommonHTML: { matchFontHeight: false },
+  displayAlign: "left",
+  displayIndent: "2em"
+});
+</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+
+## **パフェ紹介**
+私が今まで食べて美味しかったパフェを紹介します．
+
+---
+
+<p>
+Remake easyの4月の限定パフェは宮崎県産マンゴーと日向夏の天孫の春うららパフェでした！<br>
+柑橘の酸味と華やかさが素晴らしく美味しかったです．
+</p>
+
+[noteでの解説](https://note.com/remakeeasy/n/n4888cbf83e23)
+
+<img src="./画像/parfait/remakeeasy_4.jpeg">
+
+<p>
+Remake easyの5月の限定パフェは八女茶とマスクメロンの利休ヴァシュランパフェでした！<br>
+メロンのウリっぽさとお茶の相性が素晴らしく美味しかったです．
+</p>
+
+[noteでの解説](https://note.com/remakeeasy/n/n9c1b89243752)
+
+<img src="./画像/parfait/remakeeasy_5.jpeg">
+
+<p>
+Remake easyのゴールデンウィークのイベントで札幌店の限定パフェの日本酒とメロンのパフェでした！<br>
+メロンの嫌なウリっぽさが一切ない様な日本酒の合わせ方でとても美味しかったです．
+</p>
+
+<img src="./画像/parfait/remakeeasy_hokkaido.jpeg">
+
+<p>
+mementomoriの5月の限定パフェは春の花束を味わう大人のパフェでした！<br>
+ミモザの花をイメージした柑橘系のパフェでとても美味しかったです．
+</p>
+
+<img src="./画像/parfait/mementomori_5.jpeg">
+
+<p>
+Cafe & Nではシャインマスカットのパフェをいただきました！<br>
+みずみずしいシャインマスカットを活かすパフェでとても美味しかったです．
+</p>
+
+<img src="./画像/parfait/enough_sakura.jpeg">
+
+<p>
+enoughでは桜 白餡 よもぎのパフェをいただきました！<br>
+まるで苺大福や三色団子の様な複雑な味わいで春を感じることができて素晴らしく美味しかったです．
+</p>
+
+<img src="./画像/parfait/cafeandn_muscat.jpeg">
+
+---
+
+**[ホームに戻る](/index)**

@@ -87,6 +87,21 @@ Jade labの藤井さんのグラスホッパーは小さい氷を少しだけ入
 <img src="../画像/cocktail/grasshopper_jadelab.jpeg">
 
 <p>
+Jade labの藤井さんにはニューオリンズのレシピを元に再現してもらいました．<br>
+今のグラスホッパーとは違い，ぐっと重たくとても面白く美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_jadelab_original.jpeg">
+
+<p>
+Mementomoriの小林さんにはカカオマシマシのグラスホッパーをいただきました．<br>
+カカオリキュールを使わず，すっきりとしていて素晴らしく美味しかったです．
+</p>
+
+<img src="../画像/cocktail/grasshopper_mementomori.jpeg">
+
+
+<p>
 Bar K9の後藤さんのグラスホッパーは生クリームをクリーマーで泡立てることで滑らかさが口当たりをとても良くしていて絶品です．
 </p>
 
