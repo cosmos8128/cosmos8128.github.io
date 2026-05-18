@@ -45,11 +45,18 @@ Bar Juniperでは3人で20杯ほどジントニックを飲み比べる会をさ
 <img src="../画像/cocktail/gintonic_juniper.jpeg">
 
 <p>
-Bar Amberでは伊藤さんに梅のジントニックをいただきました．<br>
-すっきりとした梅を感じ，梅の花で風情を感じて素晴らしかったです．
+Bar Amberでは伊藤さんに梅のお花見ジントニックをいただきました．<br>
+梅の花で風情を感じて素晴らしかったです．梅酒とはまた違ったすっきりとした梅の良さでとても美味しかったです．
 </p>
 
 <img src="../画像/cocktail/gintonic_amber.jpeg">
+
+<p>
+Bar Amberで今回は伊藤さんにオレンジフラワーのジントニックをいただきました．<br>
+すっきりとした飲み口でとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_orange_amber.jpeg">
 
 <p>
 THE HISAKAでは大石さんに7周年のみかんのジントニックをいただきました．<br>
@@ -101,6 +108,13 @@ Bar Thistleの吉田さんの抹茶ジントニックはパッションフルー
 <img src="../画像/cocktail/gintonic_thistle_maccha.jpeg">
 
 <p>
+Bar Thistleの7周年と福田さんの誕生日お祝いでsilentpoolのジントニックで乾杯しました！<br>
+新宿で手に入れた限定のアロマガーニッシュの香りもよくとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_silentpool_thistle.jpeg">
+
+<p>
 Tigratoの高宮さんには季節限定で八女茶のジントニックを作っていただきました．<br>
 ストレートに八女茶を感じてとても美味しかったです．
 </p>
@@ -129,6 +143,13 @@ Liquid factoryではSilent Poolの珍しいver.のジントニックをいただ
 <img src="../画像/cocktail/gintonic_liquid_factory.jpg">
 
 <p>
+Bar Renriの宮之上さんには熊本のジンでジントニックをいただきました．<br>
+焼酎も使われていてしっかりとしたジントニックでとても美味しかったです．
+</p>
+
+<img src="../画像/cocktail/gintonic_renri.jpeg">
+
+<p>
 Main Bar Coatの飯島さんに金柑のジントニックをいただきました．<br>
 贅沢に金柑を使われていてとても美味しかったです．
 </p>
@@ -140,6 +161,13 @@ Jade Labの藤井さんのジントニックはデフォルトでジンソニッ
 </p>
 
 <img src="../画像/cocktail/gintonic_jadelab.jpeg">
+
+<p>
+Jade Labで今回は藤井さんに大人気メニューの寿司屋をイメージしたジントニックをいただきました．<br>
+間違いなく美味しいですね！！
+</p>
+
+<img src="../画像/cocktail/gintonic_sushi_jadelab.jpeg">
 
 <p>
 Yoshino barでは爽やかな梨のジントニックをいただきました．
