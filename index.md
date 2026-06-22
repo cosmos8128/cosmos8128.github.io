@@ -23,7 +23,7 @@ title-heading: false
 Yuki Kojima. Manifolds and fat smooth CW complexes. Master’s thesis, Kyushu University, 2023.
 
 - [A closed manifolds is a fat CW complex](https://doi.org/10.2206/kyushujm.80.167)<br>
-Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. Kyushu J. Math. 80(1) (2026), 167-186
+Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. Kyushu Jounal of Mathematics, 80(1) (2026), 167-186
 
 ## 講演
 
@@ -38,6 +38,9 @@ Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. Kyushu J. Math
 
 - [Building-up Differential Homotopy Theory 2026](https://www2.math.kyushu-u.ac.jp/~iwase/BDHT5/Home.html)<br>
 タイトル：A closed manifolds is a fat CW complex
+
+- 2026/07/13<br>
+coming soon...
 
 ## 表彰
 
