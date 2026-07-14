@@ -40,7 +40,7 @@ Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. Kyushu Jounal 
 タイトル：A closed manifolds is a fat CW complex
 
 - [九州大学第24回Mathematics for Innovation Seminar](https://www.jgmi.kyushu-u.ac.jp/post-10467/)<br>
-タイトル；数学という骨格から滑らかに広がるキャリア
+タイトル：数学という骨格から滑らかに広がるキャリア
 
 ## 表彰
 
