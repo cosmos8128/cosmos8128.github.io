@@ -68,6 +68,15 @@ Remake easyの7月の限定パフェは黄金のとうもろこし「きみひ�
 <img src="./画像/parfait/remakeeasy_7.jpeg">
 
 <p>
+Remake easyの8月の限定パフェは桃とペルーカカオの夏のビーントゥーバーチョコレートパフェでした！<br>
+桃とカカオの相性抜群でまとまり良くてとても美味しかったです．
+</p>
+
+[noteでの解説](https://note.com/remakeeasy/n/nd178774a3fff)
+
+<img src="./画像/parfait/remakeeasy_8.jpeg">
+
+<p>
 mementomori 虎ノ門の5月の限定パフェは春の花束を味わう大人のパフェでした！<br>
 ミモザの花をイメージした柑橘系のパフェでとても美味しかったです．<br>
 合わせる浦里さんのカクテルは華やかな春を感じるシュトーレンの様なカクテルで相性抜群でした．
@@ -84,7 +93,7 @@ mementomori 虎ノ門の6月の限定パフェはアメリカンチェリーと�
 <img src="./画像/parfait/mementomori_6.jpeg">
 
 <p>
-mementomori 名古屋の6月の限定パフェはカカオの魅力を一つのグラスに詰め込んだParfait Originでした！<br>
+mementomori 名古屋の最初の限定パフェはカカオの魅力を一つのグラスに詰め込んだParfait Originでした！<br>
 <br>
 合わせる六川さんのカクテルはバナナとカカオ香るスプリッツァーのツイストカクテルで最高の相性でした！
 </p>
@@ -119,6 +128,13 @@ enoughの6月のパフェはチェリー　ビーツ　赤紫蘇のパフェで�
 </p>
 
 <img src="./画像/parfait/shimashima_6.jpeg">
+
+<p>
+nibでは無花果のパフェをいただきました！<br>
+ローストした無花果とフレッシュな無花果にカカオの深みと紫蘇の酸味が相性良く，とても美味しかったです．
+</p>
+
+<img src="./画像/parfait/nib_8.jpeg">
 
 <p>
 パンシリオではウベのパフェをいただきました！<br>
