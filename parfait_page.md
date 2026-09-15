@@ -83,7 +83,7 @@ Remake easyの9月の限定パフェはクロモジとクイーンルージュ�
 
 [noteでの解説](https://note.com/remakeeasy/n/nb63a8d3e913d)
 
-<img src="./画像/parfait/remakeeasy_9.jpeg">
+<img src="./画像/parfait/remakeeasy_9.jpg">
 
 <p>
 mementomori 虎ノ門の5月の限定パフェは春の花束を味わう大人のパフェでした！<br>
