@@ -76,6 +76,9 @@ Norio Iwase, Yuki Kojima. A closed manifolds is a fat CW complex. Kyushu Jounal 
 #### <a href="/alcohol">お酒紹介</a>
 美味しいお酒を紹介します．
 
+#### <a href="/cocktail">カクテル思考備忘録</a>
+カクテル作成の思考の備忘録をここに残します．
+
 #### <span style="font-size:11pt;">連絡先</span>
 - Twitter: [@cosmos9651](https://twitter.com/@cosmos9651)
 
