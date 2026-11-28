@@ -207,7 +207,7 @@ VIRTÙの小川杏香さんもフランセンスとかも相性良いかも！�
 ### 謝辞
 <p>
 このカクテルを作成するにあたり，Bar Amberの伊藤大輔さんをはじめとするたくさんのバーテンダーさんにお世話になりました．<br>
-また，このような素晴らしい蒸留水を作成されている<a href="https://shinagawadistillery.com/ja?srsltid=AY6E960yNMlZQVwm6Q9Hliry36CVvkSJIFIp9WZJI_qVqauwBxnGxVt7">品川水蒸溜所さん </a>にもイベントで直接お話を聞かせていただいたり，その場で蒸留した様々な蒸留水を味見して今回のメインのアオモジ蒸留水を購入させていただきました．<br>
+また，このような素晴らしい蒸留水を作成されている<a href="https://shinagawadistillery.com/ja?srsltid=AY6E960yNMlZQVwm6Q9Hliry36CVvkSJIFIp9WZJI_qVqauwBxnGxVt7">品川水蒸留所さん </a>にもイベントで直接お話を聞かせていただいたり，その場で蒸留した様々な蒸留水を味見して今回のメインのアオモジ蒸留水を購入させていただきました．<br>
 
 全ての方々に感謝申し上げます．
 </p>
